@@ -8,7 +8,11 @@
     <script type='text/javascript'>
       var oregairu1p = ["http://www.mediafire.com", "http://www.solidfiles.com"];
       var myParam = location.search.split('myParam=')[1];
-            document.write(window[myParam] + ' test ');
+
+            var arrayLength = window[myParam].length;
+              for (var i = 0; i < arrayLength; i++) {
+                  document.write(window[myParam][i]);
+              }
     </script>
   </body>
 </html>
