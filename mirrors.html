@@ -7,7 +7,7 @@
   <body>
     <script type='text/javascript'>
       var myParam = location.search.split('myParam=')[1];
-      var myStringArray = myParam;
+      var myStringArray = myParam[0];
       var arrayLength = myStringArray.length;
         for (var i = 0; i < arrayLength; i++) {
             document.write(myStringArray[i]);
