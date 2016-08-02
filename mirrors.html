@@ -6,10 +6,10 @@
   </head>
   <body>
     <script type='text/javascript'>
-      var mlink = location.search.split('links=')[1];
-            var arrayLength = window[mlink].length;
+      var myParam = location.search.split('myParam=')[1];
+            var arrayLength = window[myParam].length;
               for (var i = 0; i < arrayLength; i++) {
-                  document.write(window[mlink][i] + '<br />');
+                  document.write(window[myParam][i] + '<br />');
               }
     </script>
   </body>
