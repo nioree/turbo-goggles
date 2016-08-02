@@ -9,12 +9,13 @@
       var myParam = location.search.split('myParam=')[1];
       var oregairu1p = ["http://www.mediafire.com","http://www.solidfiles.com"];
       
-      function perform(myParam) {
-        for (var i = 0; i < arrayLength; i++) {
-            document.write(this[myParam][0]);
-        }
-            }
-      perform('myParam');
+      function perform(myParam){
+      myParam = eval(myParam);
+      document.write(myParam[0]);
+      }
+      perform("myParam");
+      
+    
       
     </script>
   </body>
