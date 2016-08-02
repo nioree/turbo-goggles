@@ -10,10 +10,9 @@
       var myParam = location.search.split('myParam=')[1];
       
 
-      var arrayLength = myParam.length;
-      for (var i = 0; i < arrayLength; i++) {
-        document.write(window[myParam]][i]);
-          //Do something
+      
+      for (var i in myParam) {
+        document.write(window[myParam][i]);
       }
     </script>
   </body>
