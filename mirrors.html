@@ -23,7 +23,7 @@
       var myParam = location.search.split('link=')[1];
       var arrayLength = window[myParam].length;
         for (var i = 0; i < arrayLength; i++) {
-        document.write('<a href="' + window[myParam][i] + '" rel="nofollow">Mirror ' + [i+1] + '</a><br />');
+        document.write('<a href="' + window[myParam][i] + '" rel="nofollow"><input type="button" class="btn-style" value="MIRROR ' + [i+1] + '" /></a><br />');
         }
     </script>
       
