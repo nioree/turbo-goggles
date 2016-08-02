@@ -8,10 +8,10 @@
     <script type='text/javascript'>
       var myParam = location.search.split('myParam=')[1];
       var oregairu1p = ["http://www.mediafire.com","http://www.solidfiles.com"];
-      
-      var arrayLength = myParam.length;
+      var myArray = myParam[0];
+      var arrayLength = myArray.length;
         for (var i = 0; i < arrayLength; i++) {
-            document.write(myParam[i]);
+            document.write(myArray[i]);
         }
     </script>
   </body>
