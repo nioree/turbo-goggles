@@ -15,7 +15,7 @@
       	box-shadow : 0px 0px 5px rgba(0,0,0,1.0);
       	font-size : 25px;
       	color : #d1ff6e;
-      	padding : 15px 25px;
+      	padding : 10px 25px;
       	background-color : #0707ad;
         }
     </style>
@@ -34,7 +34,7 @@
       var myParam = location.search.split('link=')[1];
       var arrayLength = window[myParam].length;
         for (var i = 0; i < arrayLength; i++) {
-        document.write('<a href="' + window[myParam][i] + '" rel="nofollow"><input type="button" class="btn-style" value="MIRROR ' + [i+1] + '" /></a><br />');
+        document.write('<a href="' + window[myParam][i] + '" rel="nofollow"><input type="button" class="btn-style" value="mirror link ' + [i+1] + '" /></a><br /><br />');
         }
     </script>
       
