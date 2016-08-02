@@ -2,13 +2,13 @@
 <!DOCTYPE html>
 <html>
   <head>
-    
+    <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js' type='text/javascript'/>
   </head>
   <body>
     <script type='text/javascript'>
       var myParam = location.search.split('myParam=')[1];
       var oregairu1p = ["http://www.mediafire.com","http://www.solidfiles.com"];
-      var myArray = myParam[0];
+      var myArray = myParam.slice();
       var arrayLength = myArray.length;
         for (var i = 0; i < arrayLength; i++) {
             document.write(myArray[i]);
