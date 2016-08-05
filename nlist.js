@@ -1,1 +1,478 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('5 2i="3://2-1.0.4/p/8.7?6=2i";5 2j="3://2-1.0.4/p/8.7?6=2j";5 2k="3://2-1.0.4/p/8.7?6=2k";5 2l="3://2-1.0.4/p/8.7?6=2l";5 2h="3://2-1.0.4/p/8.7?6=2h";5 2g="3://2-1.0.4/p/8.7?6=2g";5 2c="3://2-1.0.4/p/8.7?6=2c";5 2b="3://2-1.0.4/p/8.7?6=2b";5 2d="3://2-1.0.4/p/8.7?6=2d";5 2e="3://2-1.0.4/p/8.7?6=2e";5 2f="3://2-1.0.4/p/8.7?6=2f";5 2m="3://2-1.0.4/p/8.7?6=2m";5 2n="3://2-1.0.4/p/8.7?6=2n";5 2u="3://2-1.0.4/p/8.7?6=2u";5 2v="3://2-1.0.4/p/8.7?6=2v";5 2w="3://2-1.0.4/p/8.7?6=2w";5 2x="3://2-1.0.4/p/8.7?6=2x";5 2t="3://2-1.0.4/p/8.7?6=2t";5 2s="3://2-1.0.4/p/8.7?6=2s";5 2o="3://2-1.0.4/p/8.7?6=2o";5 2p="3://2-1.0.4/p/8.7?6=2p";5 2q="3://2-1.0.4/p/8.7?6=2q";5 2r="3://2-1.0.4/p/8.7?6=2r";5 2a="3://2-1.0.4/p/8.7?6=2a";5 29="3://2-1.0.4/p/8.7?6=29";5 1T="3://2-1.0.4/p/8.7?6=1T";5 1U="3://2-1.0.4/p/8.7?6=1U";5 1V="3://2-1.0.4/p/8.7?6=1V";5 1W="3://2-1.0.4/p/8.7?6=1W";5 1S="3://2-1.0.4/p/8.7?6=1S";5 1R="3://2-1.0.4/p/8.7?6=1R";5 1N="3://2-1.0.4/p/8.7?6=1N";5 1M="3://2-1.0.4/p/8.7?6=1M";5 1O="3://2-1.0.4/p/8.7?6=1O";5 1P="3://2-1.0.4/p/8.7?6=1P";5 1Q="3://2-1.0.4/p/8.7?6=1Q";5 1X="3://2-1.0.4/p/8.7?6=1X";5 1Y="3://2-1.0.4/p/8.7?6=1Y";5 25="3://2-1.0.4/p/8.7?6=25";5 26="3://2-1.0.4/p/8.7?6=26";5 27="3://2-1.0.4/p/8.7?6=27";5 28="3://2-1.0.4/p/8.7?6=28";5 24="3://2-1.0.4/p/8.7?6=24";5 23="3://2-1.0.4/p/8.7?6=23";5 1Z="3://2-1.0.4/p/8.7?6=1Z";5 20="3://2-1.0.4/p/8.7?6=20";5 21="3://2-1.0.4/p/8.7?6=21";5 22="3://2-1.0.4/p/8.7?6=22";5 2y="3://2-1.0.4/p/8.7?6=2y";5 2z="3://2-1.0.4/p/8.7?6=2z";5 36="3://2-1.0.4/p/8.7?6=36";5 37="3://2-1.0.4/p/8.7?6=37";5 38="3://2-1.0.4/p/8.7?6=38";5 39="3://2-1.0.4/p/8.7?6=39";5 35="3://2-1.0.4/p/8.7?6=35";5 34="3://2-1.0.4/p/8.7?6=34";5 30="3://2-1.0.4/p/8.7?6=30";5 2Z="3://2-1.0.4/p/8.7?6=2Z";5 31="3://2-1.0.4/p/8.7?6=31";5 32="3://2-1.0.4/p/8.7?6=32";5 33="3://2-1.0.4/p/8.7?6=33";5 3a="3://2-1.0.4/p/8.7?6=3a";5 3b="3://2-1.0.4/p/8.7?6=3b";5 3i="3://2-1.0.4/p/8.7?6=3i";5 3j="3://2-1.0.4/p/8.7?6=3j";5 3k="3://2-1.0.4/p/8.7?6=3k";5 3l="3://2-1.0.4/p/8.7?6=3l";5 3h="3://2-1.0.4/p/8.7?6=3h";5 3g="3://2-1.0.4/p/8.7?6=3g";5 3c="3://2-1.0.4/p/8.7?6=3c";5 3d="3://2-1.0.4/p/8.7?6=3d";5 3e="3://2-1.0.4/p/8.7?6=3e";5 3f="3://2-1.0.4/p/8.7?6=3f";5 2Y="3://2-1.0.4/p/8.7?6=2Y";5 2X="3://2-1.0.4/p/8.7?6=2X";5 2H="3://2-1.0.4/p/8.7?6=2H";5 2I="3://2-1.0.4/p/8.7?6=2I";5 2J="3://2-1.0.4/p/8.7?6=2J";5 2K="3://2-1.0.4/p/8.7?6=2K";5 2G="3://2-1.0.4/p/8.7?6=2G";5 2F="3://2-1.0.4/p/8.7?6=2F";5 2B="3://2-1.0.4/p/8.7?6=2B";5 2A="3://2-1.0.4/p/8.7?6=2A";5 2C="3://2-1.0.4/p/8.7?6=2C";5 2D="3://2-1.0.4/p/8.7?6=2D";5 2E="3://2-1.0.4/p/8.7?6=2E";5 2L="3://2-1.0.4/p/8.7?6=2L";5 2M="3://2-1.0.4/p/8.7?6=2M";5 2T="3://2-1.0.4/p/8.7?6=2T";5 2U="3://2-1.0.4/p/8.7?6=2U";5 2V="3://2-1.0.4/p/8.7?6=2V";5 2W="3://2-1.0.4/p/8.7?6=2W";5 2S="3://2-1.0.4/p/8.7?6=2S";5 1L="3://2-1.0.4/p/8.7?6=1L";5 2N="3://2-1.0.4/p/8.7?6=2N";5 2O="3://2-1.0.4/p/8.7?6=2O";5 2P="3://2-1.0.4/p/8.7?6=2P";5 2Q="3://2-1.0.4/p/8.7?6=2Q";5 3m="3://2-1.0.4/p/8.7?6=3m";5 1t="3://2-1.0.4/p/8.7?6=1t";5 G="3://2-1.0.4/p/8.7?6=G";5 H="3://2-1.0.4/p/8.7?6=H";5 I="3://2-1.0.4/p/8.7?6=I";5 J="3://2-1.0.4/p/8.7?6=J";5 F="3://2-1.0.4/p/8.7?6=F";5 E="3://2-1.0.4/p/8.7?6=E";5 A="3://2-1.0.4/p/8.7?6=A";5 z="3://2-1.0.4/p/8.7?6=z";5 B="3://2-1.0.4/p/8.7?6=B";5 C="3://2-1.0.4/p/8.7?6=C";5 D="3://2-1.0.4/p/8.7?6=D";5 K="3://2-1.0.4/p/8.7?6=K";5 L="3://2-1.0.4/p/8.7?6=L";5 S="3://2-1.0.4/p/8.7?6=S";5 T="3://2-1.0.4/p/8.7?6=T";5 U="3://2-1.0.4/p/8.7?6=U";5 V="3://2-1.0.4/p/8.7?6=V";5 R="3://2-1.0.4/p/8.7?6=R";5 y="3://2-1.0.4/p/8.7?6=y";5 M="3://2-1.0.4/p/8.7?6=M";5 N="3://2-1.0.4/p/8.7?6=N";5 O="3://2-1.0.4/p/8.7?6=O";5 P="3://2-1.0.4/p/8.7?6=P";5 W="3://2-1.0.4/p/8.7?6=W";5 w="3://2-1.0.4/p/8.7?6=w";5 j="3://2-1.0.4/p/8.7?6=j";5 h="3://2-1.0.4/p/8.7?6=h";5 i="3://2-1.0.4/p/8.7?6=i";5 f="3://2-1.0.4/p/8.7?6=f";5 k="3://2-1.0.4/p/8.7?6=k";5 d="3://2-1.0.4/p/8.7?6=d";5 a="3://2-1.0.4/p/8.7?6=a";5 9="3://2-1.0.4/p/8.7?6=9";5 b="3://2-1.0.4/p/8.7?6=b";5 e="3://2-1.0.4/p/8.7?6=e";5 c="3://2-1.0.4/p/8.7?6=c";5 g="3://2-1.0.4/p/8.7?6=g";5 x="3://2-1.0.4/p/8.7?6=x";5 t="3://2-1.0.4/p/8.7?6=t";5 u="3://2-1.0.4/p/8.7?6=u";5 v="3://2-1.0.4/p/8.7?6=v";5 l="3://2-1.0.4/p/8.7?6=l";5 s="3://2-1.0.4/p/8.7?6=s";5 r="3://2-1.0.4/p/8.7?6=r";5 m="3://2-1.0.4/p/8.7?6=m";5 n="3://2-1.0.4/p/8.7?6=n";5 o="3://2-1.0.4/p/8.7?6=o";5 q="3://2-1.0.4/p/8.7?6=q";5 Q="3://2-1.0.4/p/8.7?6=Q";5 1K="3://2-1.0.4/p/8.7?6=1K";5 1u="3://2-1.0.4/p/8.7?6=1u";5 1v="3://2-1.0.4/p/8.7?6=1v";5 1w="3://2-1.0.4/p/8.7?6=1w";5 1x="3://2-1.0.4/p/8.7?6=1x";5 X="3://2-1.0.4/p/8.7?6=X";5 1s="3://2-1.0.4/p/8.7?6=1s";5 1o="3://2-1.0.4/p/8.7?6=1o";5 1n="3://2-1.0.4/p/8.7?6=1n";5 1p="3://2-1.0.4/p/8.7?6=1p";5 1q="3://2-1.0.4/p/8.7?6=1q";5 1r="3://2-1.0.4/p/8.7?6=1r";5 1y="3://2-1.0.4/p/8.7?6=1y";5 1z="3://2-1.0.4/p/8.7?6=1z";5 1G="3://2-1.0.4/p/8.7?6=1G";5 1H="3://2-1.0.4/p/8.7?6=1H";5 1I="3://2-1.0.4/p/8.7?6=1I";5 1J="3://2-1.0.4/p/8.7?6=1J";5 1F="3://2-1.0.4/p/8.7?6=1F";5 1E="3://2-1.0.4/p/8.7?6=1E";5 1A="3://2-1.0.4/p/8.7?6=1A";5 1B="3://2-1.0.4/p/8.7?6=1B";5 1C="3://2-1.0.4/p/8.7?6=1C";5 1D="3://2-1.0.4/p/8.7?6=1D";5 1m="3://2-1.0.4/p/8.7?6=1m";5 1l="3://2-1.0.4/p/8.7?6=1l";5 15="3://2-1.0.4/p/8.7?6=15";5 16="3://2-1.0.4/p/8.7?6=16";5 17="3://2-1.0.4/p/8.7?6=17";5 18="3://2-1.0.4/p/8.7?6=18";5 14="3://2-1.0.4/p/8.7?6=14";5 13="3://2-1.0.4/p/8.7?6=13";5 Z="3://2-1.0.4/p/8.7?6=Z";5 Y="3://2-1.0.4/p/8.7?6=Y";5 10="3://2-1.0.4/p/8.7?6=10";5 11="3://2-1.0.4/p/8.7?6=11";5 12="3://2-1.0.4/p/8.7?6=12";5 19="3://2-1.0.4/p/8.7?6=19";5 1a="3://2-1.0.4/p/8.7?6=1a";5 1h="3://2-1.0.4/p/8.7?6=1h";5 1i="3://2-1.0.4/p/8.7?6=1i";5 1j="3://2-1.0.4/p/8.7?6=1j";5 1k="3://2-1.0.4/p/8.7?6=1k";5 1g="3://2-1.0.4/p/8.7?6=1g";5 1f="3://2-1.0.4/p/8.7?6=1f";5 1b="3://2-1.0.4/p/8.7?6=1b";5 1c="3://2-1.0.4/p/8.7?6=1c";5 1d="3://2-1.0.4/p/8.7?6=1d";5 1e="3://2-1.0.4/p/8.7?6=1e";5 2R="3://2-1.0.4/p/8.7?6=2R";5 4Y="3://2-1.0.4/p/8.7?6=4Y";5 5w="3://2-1.0.4/p/8.7?6=5w";5 5x="3://2-1.0.4/p/8.7?6=5x";5 5y="3://2-1.0.4/p/8.7?6=5y";5 5z="3://2-1.0.4/p/8.7?6=5z";5 3n="3://2-1.0.4/p/8.7?6=3n";5 5u="3://2-1.0.4/p/8.7?6=5u";5 5q="3://2-1.0.4/p/8.7?6=5q";5 5p="3://2-1.0.4/p/8.7?6=5p";5 5r="3://2-1.0.4/p/8.7?6=5r";5 5s="3://2-1.0.4/p/8.7?6=5s";5 5t="3://2-1.0.4/p/8.7?6=5t";5 5A="3://2-1.0.4/p/8.7?6=5A";5 5B="3://2-1.0.4/p/8.7?6=5B";5 5I="3://2-1.0.4/p/8.7?6=5I";5 5J="3://2-1.0.4/p/8.7?6=5J";5 5K="3://2-1.0.4/p/8.7?6=5K";5 5L="3://2-1.0.4/p/8.7?6=5L";5 5H="3://2-1.0.4/p/8.7?6=5H";5 5G="3://2-1.0.4/p/8.7?6=5G";5 5C="3://2-1.0.4/p/8.7?6=5C";5 5D="3://2-1.0.4/p/8.7?6=5D";5 5E="3://2-1.0.4/p/8.7?6=5E";5 5F="3://2-1.0.4/p/8.7?6=5F";5 5o="3://2-1.0.4/p/8.7?6=5o";5 5n="3://2-1.0.4/p/8.7?6=5n";5 57="3://2-1.0.4/p/8.7?6=57";5 58="3://2-1.0.4/p/8.7?6=58";5 59="3://2-1.0.4/p/8.7?6=59";5 5a="3://2-1.0.4/p/8.7?6=5a";5 56="3://2-1.0.4/p/8.7?6=56";5 55="3://2-1.0.4/p/8.7?6=55";5 51="3://2-1.0.4/p/8.7?6=51";5 50="3://2-1.0.4/p/8.7?6=50";5 52="3://2-1.0.4/p/8.7?6=52";5 53="3://2-1.0.4/p/8.7?6=53";5 54="3://2-1.0.4/p/8.7?6=54";5 5b="3://2-1.0.4/p/8.7?6=5b";5 5c="3://2-1.0.4/p/8.7?6=5c";5 5j="3://2-1.0.4/p/8.7?6=5j";5 5k="3://2-1.0.4/p/8.7?6=5k";5 5l="3://2-1.0.4/p/8.7?6=5l";5 5m="3://2-1.0.4/p/8.7?6=5m";5 5i="3://2-1.0.4/p/8.7?6=5i";5 5h="3://2-1.0.4/p/8.7?6=5h";5 5d="3://2-1.0.4/p/8.7?6=5d";5 5e="3://2-1.0.4/p/8.7?6=5e";5 5f="3://2-1.0.4/p/8.7?6=5f";5 5g="3://2-1.0.4/p/8.7?6=5g";5 5N="3://2-1.0.4/p/8.7?6=5N";5 6b="3://2-1.0.4/p/8.7?6=6b";5 6j="3://2-1.0.4/p/8.7?6=6j";5 6k="3://2-1.0.4/p/8.7?6=6k";5 6l="3://2-1.0.4/p/8.7?6=6l";5 6m="3://2-1.0.4/p/8.7?6=6m";5 6i="3://2-1.0.4/p/8.7?6=6i";5 6h="3://2-1.0.4/p/8.7?6=6h";5 6d="3://2-1.0.4/p/8.7?6=6d";5 6e="3://2-1.0.4/p/8.7?6=6e";5 6f="3://2-1.0.4/p/8.7?6=6f";5 6g="3://2-1.0.4/p/8.7?6=6g";5 6n="3://2-1.0.4/p/8.7?6=6n";5 6o="3://2-1.0.4/p/8.7?6=6o";5 6v="3://2-1.0.4/p/8.7?6=6v";5 6w="3://2-1.0.4/p/8.7?6=6w";5 6x="3://2-1.0.4/p/8.7?6=6x";5 6z="3://2-1.0.4/p/8.7?6=6z";5 6u="3://2-1.0.4/p/8.7?6=6u";5 6t="3://2-1.0.4/p/8.7?6=6t";5 6p="3://2-1.0.4/p/8.7?6=6p";5 6q="3://2-1.0.4/p/8.7?6=6q";5 6r="3://2-1.0.4/p/8.7?6=6r";5 6s="3://2-1.0.4/p/8.7?6=6s";5 6y="3://2-1.0.4/p/8.7?6=6y";5 6c="3://2-1.0.4/p/8.7?6=6c";5 5V="3://2-1.0.4/p/8.7?6=5V";5 5W="3://2-1.0.4/p/8.7?6=5W";5 5X="3://2-1.0.4/p/8.7?6=5X";5 5Y="3://2-1.0.4/p/8.7?6=5Y";5 5U="3://2-1.0.4/p/8.7?6=5U";5 5T="3://2-1.0.4/p/8.7?6=5T";5 5P="3://2-1.0.4/p/8.7?6=5P";5 5O="3://2-1.0.4/p/8.7?6=5O";5 5Q="3://2-1.0.4/p/8.7?6=5Q";5 5R="3://2-1.0.4/p/8.7?6=5R";5 5S="3://2-1.0.4/p/8.7?6=5S";5 5Z="3://2-1.0.4/p/8.7?6=5Z";5 60="3://2-1.0.4/p/8.7?6=60";5 67="3://2-1.0.4/p/8.7?6=67";5 68="3://2-1.0.4/p/8.7?6=68";5 69="3://2-1.0.4/p/8.7?6=69";5 6a="3://2-1.0.4/p/8.7?6=6a";5 66="3://2-1.0.4/p/8.7?6=66";5 65="3://2-1.0.4/p/8.7?6="65;5 61="3://2-1.0.4/p/8.7?6=61";5 62="3://2-1.0.4/p/8.7?6=62";5 63="3://2-1.0.4/p/8.7?6=63";5 64="3://2-1.0.4/p/8.7?6=64";5 5M="3://2-1.0.4/p/8.7?6=5M";5 4Z="3://2-1.0.4/p/8.7?6=4Z";5 3U="3://2-1.0.4/p/8.7?6=3U";5 3V="3://2-1.0.4/p/8.7?6=3V";5 3W="3://2-1.0.4/p/8.7?6=3W";5 3X="3://2-1.0.4/p/8.7?6=3X";5 3T="3://2-1.0.4/p/8.7?6=3T";5 3S="3://2-1.0.4/p/8.7?6=3S";5 3O="3://2-1.0.4/p/8.7?6=3O";5 3N="3://2-1.0.4/p/8.7?6=3N";5 3P="3://2-1.0.4/p/8.7?6=3P";5 3Q="3://2-1.0.4/p/8.7?6=3Q";5 3R="3://2-1.0.4/p/8.7?6=3R";5 3Y="3://2-1.0.4/p/8.7?6=3Y";5 3Z="3://2-1.0.4/p/8.7?6=3Z";5 46="3://2-1.0.4/p/8.7?6=46";5 47="3://2-1.0.4/p/8.7?6=47";5 48="3://2-1.0.4/p/8.7?6=48";5 49="3://2-1.0.4/p/8.7?6=49";5 45="3://2-1.0.4/p/8.7?6=45";5 44="3://2-1.0.4/p/8.7?6=44";5 40="3://2-1.0.4/p/8.7?6=40";5 41="3://2-1.0.4/p/8.7?6=41";5 42="3://2-1.0.4/p/8.7?6=42";5 43="3://2-1.0.4/p/8.7?6=43";5 3M="3://2-1.0.4/p/8.7?6=3M";5 3L="3://2-1.0.4/p/8.7?6=3L";5 3v="3://2-1.0.4/p/8.7?6=3v";5 3w="3://2-1.0.4/p/8.7?6=3w";5 3x="3://2-1.0.4/p/8.7?6=3x";5 3y="3://2-1.0.4/p/8.7?6=3y";5 3u="3://2-1.0.4/p/8.7?6=3u";5 3t="3://2-1.0.4/p/8.7?6=3t";5 3p="3://2-1.0.4/p/8.7?6=3p";5 3o="3://2-1.0.4/p/8.7?6=3o";5 3q="3://2-1.0.4/p/8.7?6=3q";5 3r="3://2-1.0.4/p/8.7?6=3r";5 3s="3://2-1.0.4/p/8.7?6=3s";5 3z="3://2-1.0.4/p/8.7?6=3z";5 3A="3://2-1.0.4/p/8.7?6=3A";5 3H="3://2-1.0.4/p/8.7?6=3H";5 3I="3://2-1.0.4/p/8.7?6=3I";5 3J="3://2-1.0.4/p/8.7?6=3J";5 3K="3://2-1.0.4/p/8.7?6=3K";5 3G="3://2-1.0.4/p/8.7?6=3G";5 3F="3://2-1.0.4/p/8.7?6=3F";5 3B="3://2-1.0.4/p/8.7?6=3B";5 3C="3://2-1.0.4/p/8.7?6=3C";5 3D="3://2-1.0.4/p/8.7?6=3D";5 3E="3://2-1.0.4/p/8.7?6=3E";5 4a="3://2-1.0.4/p/8.7?6=4a";5 4b="3://2-1.0.4/p/8.7?6=4b";5 4I="3://2-1.0.4/p/8.7?6=4I";5 4J="3://2-1.0.4/p/8.7?6=4J";5 4K="3://2-1.0.4/p/8.7?6=4K";5 4L="3://2-1.0.4/p/8.7?6=4L";5 4H="3://2-1.0.4/p/8.7?6=4H";5 4G="3://2-1.0.4/p/8.7?6=4G";5 4C="3://2-1.0.4/p/8.7?6=4C";5 4B="3://2-1.0.4/p/8.7?6=4B";5 4D="3://2-1.0.4/p/8.7?6=4D";5 4E="3://2-1.0.4/p/8.7?6=4E";5 4F="3://2-1.0.4/p/8.7?6=4F";5 4M="3://2-1.0.4/p/8.7?6=4M";5 4N="3://2-1.0.4/p/8.7?6=4N";5 4U="3://2-1.0.4/p/8.7?6=4U";5 4V="3://2-1.0.4/p/8.7?6=4V";5 4W="3://2-1.0.4/p/8.7?6=4W";5 4X="3://2-1.0.4/p/8.7?6=4X";5 4T="3://2-1.0.4/p/8.7?6=4T";5 4S="3://2-1.0.4/p/8.7?6=4S";5 4O="3://2-1.0.4/p/8.7?6=4O";5 4P="3://2-1.0.4/p/8.7?6=4P";5 4Q="3://2-1.0.4/p/8.7?6=4Q";5 4R="3://2-1.0.4/p/8.7?6=4R";5 4A="3://2-1.0.4/p/8.7?6=4A";5 4z="3://2-1.0.4/p/8.7?6=4z";5 4j="3://2-1.0.4/p/8.7?6=4j";5 4k="3://2-1.0.4/p/8.7?6=4k";5 4l="3://2-1.0.4/p/8.7?6=4l";5 4m="3://2-1.0.4/p/8.7?6=4m";5 4i="3://2-1.0.4/p/8.7?6=4i";5 4h="3://2-1.0.4/p/8.7?6=4h";5 4d="3://2-1.0.4/p/8.7?6=4d";5 4c="3://2-1.0.4/p/8.7?6=4c";5 4e="3://2-1.0.4/p/8.7?6=4e";5 4f="3://2-1.0.4/p/8.7?6=4f";5 4g="3://2-1.0.4/p/8.7?6=4g";5 4n="3://2-1.0.4/p/8.7?6=4n";5 4o="3://2-1.0.4/p/8.7?6=4o";5 4v="3://2-1.0.4/p/8.7?6=4v";5 4w="3://2-1.0.4/p/8.7?6=4w";5 4x="3://2-1.0.4/p/8.7?6=4x";5 4y="3://2-1.0.4/p/8.7?6=4y";5 4u="3://2-1.0.4/p/8.7?6=4u";5 4t="3://2-1.0.4/p/8.7?6=4t";5 4p="3://2-1.0.4/p/8.7?6=4p";5 4q="3://2-1.0.4/p/8.7?6=4q";5 4r="3://2-1.0.4/p/8.7?6=4r";5 4s="3://2-1.0.4/p/8.7?6=4s";5 5v="3://2-1.0.4/p/8.7?6=5v";',62,408,'blogspot|goggles|turbo|http|com|var|link|html|mirrors|heavy5|heavy4|heavy6|heavy8|heavy3|heavy7|heavy1|utsuro1|kokoro5e|kokoro5|kokoro4|heavy2|utsuro6|tokyor2|tokyor3|tokyor4||tokyor5|tokyor1|utsuro7|utsuro3|utsuro4|utsuro5|kokoro3|utsuro2|goldent1|tsuki3|tsuki2|tsuki4|tsuki5|tsuki6|tsuki1|strawbp3|spice16|spice17|strawbp1|strawbp2|tsuki7|tsuki8|goldent2|goldent3|goldent4|kokoro1|tokyor6|tsuki12|tsuki9_5|tsuki9|tsuki10|tsuki11|kokoro2|tokyor12|onlys7|onlys6|onlyss1|onlyss2|nogame1|onlys5|onlys4|rokka4|onlys1|onlys2|onlys3|nogame2|nogame3|mondaiji4|mondaiji5|mondaiji6|mondaiji7|mondaiji3|mondaiji2|nogame4|nogame5|nogame6|mondaiji1|rokka3|rokka2|tg35ss2|tg35ss1|tg35ss3|tg35ss4|tg35ss5|tokyor13|spice15|tokyor8|tokyor9|tokyor10|tokyor11|tg35ss6|tg35ss7|silverc3|silverc4|silverc5|rokka1|silverc2|silverc1|tg35ss8|tg35ss9|tg35ss10|tg35ss11|tokyor7|spice9|lilia5|lilia4|lilia6|sayonara1|sayonara2|lilia3|lilia2|washio_3|washio_2|washio_1|lilia1|sayonara3|sayonara4|kikou3|kikou4|ichiban1|ichiban2|kikou2|kikou1|sayonara5|omae1|omae2|omae3|washio_4|washio_5|sekai_no_owari|tsukumodo|gekkou|harem_c|a_simple_m|worldgod2|worldgod1|a_simple_s|remem|tabi_ni_deyou|welcome_nhk|persona_x|sugar_dark|washio_9|washio_8|washio_7|washio_6|tenbdp|tenbde|waltraute_san|student_c|ame_nohi|shomen_tantei|ichiban3|ichiban4|angelb7|angelb6|angelbx1|angelbx2|spice1|angelb5|angelb4|ccc17|angelb1|angelb2|angelb3|spice2|spice3|spice10|spice11|spice12|spice13|mondaiji8|spice8|spice4|spice5|spice6|spice7|ccc16|ccc15|ichiban12|ichiban11|ichiban13|ccc1|ccc2|ichiban10|ichiban9|ichiban5|ichiban6|ichiban7|ichiban8|ccc3|ccc4|ccc11|ccc12|ccc13|ccc14|ccc10|ccc9|ccc5|ccc6|ccc7|ccc8|spice14|hsdxd3|haruhi7|haruhi6|haruhi8|haruhi9|haruhi10|haruhi5|haruhi4|sao_accel|haruhi1|haruhi2|haruhi3|haruhi11|haruhi_untold|zero7|zero8|zero9|zero10|zero6|zero5|zero1|zero2|zero3|zero4|sao_aria|sao_mat|sao4|sao3|sao5|sao6|sao7|sao2|sao1|abduo2|abduo3|abduo4|abduo5|sao8|sao9|sao16|sao_side|sao_sound|sao_gx2|sao15|sao14|sao10|sao11|sao12|sao13|zero11|zero12|oregairu9|oregairu8|oregairu10|oregairu10_5|oregairu11|oregairu7_5|oregairu7|oregairu4|oregairu5|oregairu6|oregairu6_5|oregairu1e|oregairu2e|oregairu8e|oregairu9e|oregairu10e|oregairu10_5e|oregairu7_5e|oregairu7e|oregairu3e|oregairu4e|oregairu5e|oregairu6e|oregairu3|oregairu2|toradora2|toradora1|toradora3|toradora4|toradora5|zero18|zero17|zero13|zero14|zero15|zero16|toradora6|toradora7|hyouka5|hyouka2|hyouka1|oregairu1|hyouka4|hyouka3|toradora8|toradora9|toradora10|hyouka_s4|mondaiji9|abduo1|fullmp5|fullmp4|fullmp6|fullmp7|fullmp8|fullmp3|fullmp2|gakusen5|gakusen6|gakusen7|fullmp1|fullmp9|fullmp10|elysion1|elysion2|elysion3|datea_aki|eroms4|eroms3|fullmp11|fullmp12|eroms1|eroms2|gakusen4|gakusen3|hsdxd6|hsdxd5|hsdxd7|hsdxd8|hsdxd9|hsdxd4|oregairu11e|hsdxd_myf|hsdxd_rias|hsdxd1|hsdxd2|hsdxd10|hsdxd11|hsdxd18|hsdxd19|gakusen1|gakusen2|hsdxd17|hsdxd16|hsdxd12|hsdxd13|hsdxd14|hsdxd15|accel8|datea_ratat|bakato6|bakato5|bakato6_5|bakato7|bakato7_5|bakato4|bakato3_5|bakato_collab|bakato1|bakato2|bakato3|bakato8|bakato9|accel2|accel3|accel4|accel5|accel1|bakato12|bakato9_5|bakato10|bakato10_5|bakato11|datea1|danmachi4|datea8|datea9|datea10|datea11|datea7|datea6|datea2|datea3|datea4|datea5|datea12|bokuwa1|bokuwa8|bokuwa9|danmachi1|danmachi2|bokuwa7|bokuwa6|bokuwa2|bokuwa3|bokuwa4|danmachi3|bokuwa5'.split('|'),0,{}))
+//Single files 
+var a_simple_s = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=a_simple_s";
+var remem = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=remem";
+var tabi_ni_deyou = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tabi_ni_deyou";
+var welcome_nhk = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=welcome_nhk";
+var worldgod1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=worldgod1";
+var worldgod2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=worldgod2";
+var tsukumodo = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tsukumodo";
+var sekai_no_owari = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sekai_no_owari";
+var gekkou = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=gekkou";
+var harem_c = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=harem_c";
+var a_simple_m = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=a_simple_m";
+var persona_x = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=persona_x";
+var sugar_dark = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sugar_dark";
+var waltraute_san = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=waltraute_san";
+var student_c = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=student_c";
+var ame_nohi = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ame_nohi";
+var shomen_tantei = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=shomen_tantei";
+var tenbde = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tenbde";
+var tenbdp = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tenbdp";
+
+//Washio Sumi wa Yuusha de Aru
+var washio_9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=washio_9";
+var washio_8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=washio_8"; 
+var washio_7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=washio_7";
+var washio_6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=washio_6";
+var washio_5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=washio_5";
+var washio_4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=washio_4";
+var washio_3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=washio_3";
+var washio_2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=washio_2";
+var washio_1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=washio_1";
+
+//Lilia to Treize
+var lilia1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=lilia1";
+var lilia2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=lilia2";
+var lilia3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=lilia3";
+var lilia4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=lilia4";
+var lilia5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=lilia5";
+var lilia6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=lilia6";
+
+//Sayonara Piano Sonata
+var sayonara1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sayonara1";
+var sayonara2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sayonara2";
+var sayonara3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sayonara3";
+var sayonara4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sayonara4";
+var sayonara5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sayonara5";
+
+//Omae wo Onii-chan ni Shite Yarouka
+var omae1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=omae1";
+var omae2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=omae2";
+var omae3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=omae3";
+
+//Kikou Shoujo wa Kizutsukanai
+var kikou1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=kikou1";
+var kikou2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=kikou2";
+var kikou3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=kikou3";
+var kikou4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=kikou4";
+
+//Ichiban Ushiro no Daimaou
+var ichiban1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ichiban1";
+var ichiban2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ichiban2";
+var ichiban3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ichiban3";
+var ichiban4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ichiban4";
+var ichiban5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ichiban5";
+var ichiban6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ichiban6";
+var ichiban7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ichiban7";
+var ichiban8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ichiban8";
+var ichiban9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ichiban9";
+var ichiban10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ichiban10";
+var ichiban11 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ichiban11";
+var ichiban12 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ichiban12";
+var ichiban13 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ichiban13";
+
+//Cube x Cursed x Curious
+var ccc1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc1";
+var ccc2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc2";
+var ccc3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc3";
+var ccc4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc4";
+var ccc5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc5";
+var ccc6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc6";
+var ccc7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc7";
+var ccc8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc8";
+var ccc9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc9";
+var ccc10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc10";
+var ccc11 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc11";
+var ccc12 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc12";
+var ccc13 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc13";
+var ccc14 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc14";
+var ccc15 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc15";
+var ccc16 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc16";
+var ccc17 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=ccc17";
+
+//Angel Beats
+var angelb1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=angelb1";
+var angelb2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=angelb2";
+var angelb3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=angelb3";
+var angelb4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=angelb4";
+var angelb5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=angelb5";
+var angelb6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=angelb6";
+var angelb7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=angelb7";
+var angelbx1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=angelbx1";
+var angelbx2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=angelbx2";
+
+//Spice and Wolf
+var spice1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice1";
+var spice2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice2";
+var spice3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice3";
+var spice4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice4";
+var spice5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice5";
+var spice6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice6";
+var spice7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice7";
+var spice8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice8";
+var spice9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice9";
+var spice10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice10";
+var spice11 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice11";
+var spice12 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice12";
+var spice13 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice13";
+var spice14 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice14";
+var spice15 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice15";
+var spice16 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice16";
+var spice17 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=spice17";
+
+//Strawberry Panic
+var strawbp1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=strawbp1";
+var strawbp2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=strawbp2";
+var strawbp3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=strawbp3";
+
+//Tsuki Tsuki
+var tsuki1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tsuki1";
+var tsuki2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tsuki2";
+var tsuki3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tsuki3";
+var tsuki4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tsuki4";
+var tsuki5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tsuki5";
+var tsuki6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tsuki6";
+var tsuki7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tsuki7";
+var tsuki8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tsuki8";
+var tsuki9_5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tsuki9_5";
+var tsuki9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tsuki9";
+var tsuki10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tsuki10";
+var tsuki11 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tsuki11";
+var tsuki12 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tsuki12";
+
+//Golden Time
+var goldent1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=goldent1";
+var goldent2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=goldent2";
+var goldent3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=goldent3";
+var goldent4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=goldent4";
+
+//Kokoro Connect
+var kokoro1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=kokoro1";
+var kokoro2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=kokoro2";
+var kokoro3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=kokoro3";
+var kokoro4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=kokoro4";
+var kokoro5e = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=kokoro5e";
+var kokoro5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=kokoro5";
+
+//Heavy object
+var heavy1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=heavy1";
+var heavy2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=heavy2";
+var heavy3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=heavy3";
+var heavy4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=heavy4";
+var heavy5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=heavy5";
+var heavy6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=heavy6";
+var heavy7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=heavy7";
+var heavy8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=heavy8";
+
+//Utsuro no hako
+var utsuro1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=utsuro1";
+var utsuro2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=utsuro2";
+var utsuro3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=utsuro3";
+var utsuro4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=utsuro4";
+var utsuro5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=utsuro5";
+var utsuro6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=utsuro6";
+var utsuro7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=utsuro7";
+
+//Tokyo Ravens
+var tokyor1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tokyor1";
+var tokyor2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tokyor2";
+var tokyor3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tokyor3";
+var tokyor4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tokyor4";
+var tokyor5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tokyor5";
+var tokyor6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tokyor6";
+var tokyor7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tokyor7";
+var tokyor8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tokyor8";
+var tokyor9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tokyor9";
+var tokyor10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tokyor10";
+var tokyor11 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tokyor11";
+var tokyor12 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tokyor12";
+var tokyor13 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tokyor13";
+
+//Taimadou Gakuen 35
+var tg35ss1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tg35ss1";
+var tg35ss2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tg35ss2";
+var tg35ss3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tg35ss3";
+var tg35ss4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tg35ss4";
+var tg35ss5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tg35ss5";
+var tg35ss6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tg35ss6";
+var tg35ss7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tg35ss7";
+var tg35ss8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tg35ss8";
+var tg35ss9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tg35ss9";
+var tg35ss10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tg35ss10";
+var tg35ss11 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=tg35ss11";
+
+//silver cross and draculea
+var silverc1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=silverc1";
+var silverc2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=silverc2";
+var silverc3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=silverc3";
+var silverc4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=silverc4";
+var silverc5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=silverc5";
+
+//rokka no yuusha
+var rokka1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=rokka1";
+var rokka2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=rokka2";
+var rokka3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=rokka3";
+var rokka4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=rokka4";
+
+//only sense online
+var onlys1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=onlys1";
+var onlys2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=onlys2";
+var onlys3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=onlys3";
+var onlys4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=onlys4";
+var onlys5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=onlys5";
+var onlys6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=onlys6";
+var onlys7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=onlys7";
+var onlyss1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=onlyss1";
+var onlyss2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=onlyss2";
+
+//no game no life
+var nogame1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=nogame1";
+var nogame2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=nogame2";
+var nogame3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=nogame3";
+var nogame4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=nogame4";
+var nogame5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=nogame5";
+var nogame6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=nogame6";
+
+//mondaiji tachi
+var mondaiji1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=mondaiji1";
+var mondaiji2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=mondaiji2";
+var mondaiji3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=mondaiji3";
+var mondaiji4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=mondaiji4";
+var mondaiji5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=mondaiji5";
+var mondaiji6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=mondaiji6";
+var mondaiji7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=mondaiji7";
+var mondaiji8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=mondaiji8";
+var mondaiji9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=mondaiji9";
+
+//high school dxd
+var hsdxd_myf = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd_myf";
+var hsdxd_rias = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd_rias";
+var hsdxd1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd1";
+var hsdxd2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd2";
+var hsdxd3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd3";
+var hsdxd4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd4";
+var hsdxd5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd5";
+var hsdxd6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd6";
+var hsdxd7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd7";
+var hsdxd8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd8";
+var hsdxd9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd9";
+var hsdxd10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd10";
+var hsdxd11 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd11";
+var hsdxd12 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd12";
+var hsdxd13 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd13";
+var hsdxd14 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd14";
+var hsdxd15 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd15";
+var hsdxd16 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd16";
+var hsdxd17 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd17";
+var hsdxd18 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd18";
+var hsdxd19 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hsdxd19";
+
+//gakusen toshi asterisk
+var gakusen1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=gakusen1";
+var gakusen2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=gakusen2";
+var gakusen3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=gakusen3";
+var gakusen4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=gakusen4";
+var gakusen5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=gakusen5";
+var gakusen6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=gakusen6";
+var gakusen7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=gakusen7";
+
+//full metal panic
+var fullmp1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=fullmp1";
+var fullmp2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=fullmp2";
+var fullmp3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=fullmp3";
+var fullmp4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=fullmp4";
+var fullmp5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=fullmp5";
+var fullmp6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=fullmp6";
+var fullmp7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=fullmp7";
+var fullmp8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=fullmp8";
+var fullmp9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=fullmp9";
+var fullmp10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=fullmp10";
+var fullmp11 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=fullmp11";
+var fullmp12 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=fullmp12";
+
+//ero manga sensei
+var eroms1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=eroms1";
+var eroms2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=eroms2";
+var eroms3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=eroms3";
+var eroms4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=eroms4";
+
+//ELYSION Virtual Region
+var elysion1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=elysion1";
+var elysion2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=elysion2";
+var elysion3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=elysion3";
+
+//Date A Live
+var datea_aki = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=datea_aki";
+var datea_ratat = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=datea_ratat";
+var datea1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=datea1";
+var datea2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=datea2";
+var datea3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=datea3";
+var datea4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=datea4";
+var datea5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=datea5";
+var datea6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=datea6";
+var datea7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=datea7";
+var datea8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=datea8";
+var datea9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=datea9";
+var datea10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=datea10";
+var datea11 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=datea11";
+var datea12 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=datea12";
+
+//Boku wa Tomodachi ga Sukunai 
+var bokuwa1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bokuwa1";
+var bokuwa2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bokuwa2";
+var bokuwa3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bokuwa3";
+var bokuwa4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bokuwa4";
+var bokuwa5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bokuwa5";
+var bokuwa6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bokuwa6";
+var bokuwa7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bokuwa7";
+var bokuwa8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bokuwa8";
+var bokuwa9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bokuwa9";
+
+//Danmachi
+var danmachi1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=danmachi1";
+var danmachi2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=danmachi2";
+var danmachi3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=danmachi3";
+var danmachi4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=danmachi4";
+
+//Baka to Test to Shoukanjuu
+var bakato_collab = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato_collab";
+var bakato1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato1";
+var bakato2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato2";
+var bakato3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato3";
+var bakato3_5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato3_5";
+var bakato4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato4";
+var bakato5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato5";
+var bakato6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato6";
+var bakato6_5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato6_5";
+var bakato7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato7";
+var bakato7_5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato7_5";
+var bakato8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato8";
+var bakato9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato9";
+var bakato9_5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato9_5";
+var bakato10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato10";
+var bakato10_5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato10_5";
+var bakato11 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato11";
+var bakato12 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=bakato12";
+
+//accel world
+var accel1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link="accel1;
+var accel2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=accel2";
+var accel3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=accel3";
+var accel4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=accel4";
+var accel5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=accel5";
+var accel8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=accel8";
+
+//absolute duo
+var abduo1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=abduo1";
+var abduo2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=abduo2";
+var abduo3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=abduo3";
+var abduo4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=abduo4";
+var abduo5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=abduo5";
+
+//sword art online
+var sao1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao1";
+var sao2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao2";
+var sao3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao3";
+var sao4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao4";
+var sao5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao5";
+var sao6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao6";
+var sao7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao7";
+var sao8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao8";
+var sao9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao9";
+var sao10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao10";
+var sao11 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao11";
+var sao12 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao12";
+var sao13 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao13";
+var sao14 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao14";
+var sao15 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao15";
+var sao16 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao16";
+var sao_side = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao_side";
+var sao_sound = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao_sound";
+var sao_gx2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao_gx2";
+var sao_mat = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao_mat";
+var sao_aria = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao_aria";
+var sao_accel = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=sao_accel";
+
+//Suzumiya_Haruhi_no_Yuutsu
+var haruhi1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=haruhi1";
+var haruhi2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=haruhi2";
+var haruhi3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=haruhi3";
+var haruhi4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=haruhi4";
+var haruhi5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=haruhi5";
+var haruhi6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=haruhi6";
+var haruhi7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=haruhi7";
+var haruhi8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=haruhi8";
+var haruhi9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=haruhi9";
+var haruhi10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=haruhi10";
+var haruhi11 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=haruhi11";
+var haruhi_untold = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=haruhi_untold";
+
+//Zero no Tsukaima
+var zero1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero1";
+var zero2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero2";
+var zero3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero3";
+var zero4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero4";
+var zero5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero5";
+var zero6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero6";
+var zero7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero7";
+var zero8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero8";
+var zero9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero9";
+var zero10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero10";
+var zero11 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero11";
+var zero12 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero12";
+var zero13 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero13";
+var zero14 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero14";
+var zero15 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero15";
+var zero16 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero16";
+var zero17 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero17";
+var zero18 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=zero18";
+
+//toradora
+var toradora1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=toradora1";
+var toradora2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=toradora2";
+var toradora3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=toradora3";
+var toradora4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=toradora4";
+var toradora5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=toradora5";
+var toradora6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=toradora6";
+var toradora7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=toradora7";
+var toradora8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=toradora8";
+var toradora9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=toradora9";
+var toradora10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=toradora10";
+
+//Hyouka
+var hyouka_s4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hyouka_s4";
+var hyouka3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hyouka3";
+var hyouka4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hyouka4";
+var hyouka5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hyouka5";
+var hyouka2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hyouka2";
+var hyouka1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=hyouka1";
+
+//Oregairu
+var oregairu1 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu1";
+var oregairu2 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu2";
+var oregairu3 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu3";
+var oregairu4 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu4";
+var oregairu5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu5";
+var oregairu6 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu6";
+var oregairu6_5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu6_5";
+var oregairu7 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu7";
+var oregairu7_5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu7_5";
+var oregairu8 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu8";
+var oregairu9 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu9";
+var oregairu10 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu10";
+var oregairu10_5 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu10_5";
+var oregairu11 = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu11";
+
+var oregairu1e = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu1e";
+var oregairu2e = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu2e";
+var oregairu3e = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu3e";
+var oregairu4e = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu4e";
+var oregairu5e = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu5e";
+var oregairu6e = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu6e";
+var oregairu7e = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu7e";
+var oregairu7_5e = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu7_5e";
+var oregairu8e = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu8e";
+var oregairu9e = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu9e";
+var oregairu10e = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu10e";
+var oregairu10_5e = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu10_5e";
+var oregairu11e = "http://turbo-goggles.blogspot.com/p/mirrors.html?link=oregairu11e";
