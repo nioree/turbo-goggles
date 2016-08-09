@@ -1,14 +1,12 @@
 <?xml version="1.0"?>
-<novel>
-<title>Absolute Duo</title>
-<volume>1</volume>
-<image>https://1.bp.blogspot.com/-82HSr_zVA6k/V008v9pRLqI/AAAAAAAABrw/_zfZ0WVkPTwfDX67jGqydskmMeORzZaNACLcB/s1600/aduo1.jpg</image>
-<link>http://www.google.com</link>
-</novel>
-
-<novel>
-<title>Absolute Duo</title>
-<volume>2</volume>
-<image>https://1.bp.blogspot.com/-wOuEfgwvLcA/V00-3kjh-WI/AAAAAAAABsM/yKF2AXqFOnIOiEGJHw6AaYo4Vz8cYkHRgCLcB/s1600/aduo2.jpg</image>
-<link>http://www.yahoo.com</link>
-</novel>
+<user>
+<details>
+<name>abc</name>
+<class>xyz</class>
+<city>pqr</city>
+</details>
+<info>
+<id>123</id>
+<code>456</code>
+</info>
+</user>
