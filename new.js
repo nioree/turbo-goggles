@@ -7,7 +7,7 @@
   };
   firebase.initializeApp(config);
   
-  const preObject = document.getElementById('a_simple_m');
+  const preObject = document.getElementById('object');
   
   const dbRefObject = firebase.database().ref().child('a_simple_m');
   
