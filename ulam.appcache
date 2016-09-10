@@ -3,8 +3,8 @@ CACHE MANIFEST
 # Build 2016-09-10
 
 CACHE:
-images/*.*
-/js/ulam.json
+https://animelightnovels.github.io/turbo-goggles/images/*.*
+https://animelightnovels.github.io/turbo-goggles/js/ulam.json
 
 NETWORK:
 http://*
