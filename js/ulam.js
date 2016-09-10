@@ -1,3 +1,4 @@
+ulam([
 {
   "fish1" : {
     "category" : "fish1",
@@ -112,3 +113,4 @@
     "image" : "https://animelightnovels.github.io/turbo-goggles/images/ground-beef-omelet-recipe.jpg"
   }
 }
+])
