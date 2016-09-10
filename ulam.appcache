@@ -1,0 +1,11 @@
+CACHE MANIFEST
+
+# Build 2016-09-10
+
+CACHE:
+images/*.*
+/js/ulam.json
+
+NETWORK:
+http://*
+https://*
