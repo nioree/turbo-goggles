@@ -5,56 +5,56 @@ ulam([
     "ulam" : "Inihaw na Panga ng Tuna (Grilled Tuna Jaw)",
     "ingredients" : "<ul>\r\n<li>3 lbs. Tuna jaw (Panga ng Tuna), rinsed</li>\r\n</ul>\r\n<div>Tuna Marinade</div>\r\n<ul>\r\n<li>1 cup soy sauce</li>\r\n<li>5 cloves garlic, crushed and minced</li>\r\n<li>9 pieces red chili</li>\r\n<li>¼ cup brown sugar</li>\r\n<li>2 pieces lime (or 4 pieces calamansi)</li>\r\n<li>¼ teaspoon ground black pepper</li>\r\n</ul>\r\n<div>Tuna basting sauce</div>\r\n<ul>\r\n<li>½ cup soy sauce</li>\r\n<li>2 tablespoons white sugar</li>\r\n</ul>",
     "instruction" : "<ol>\r\n<li>Combine soy sauce, lime, ground black pepper, and chili in a medium bowl. Stir.</li>\r\n<li>Add garlic and sugar. Stir thoroughly until the sugar dissolves.</li>\r\n<li>Place the tuna in a re-sealable plastic bag. Pour the soy sauce marinade along with the tuna. Let the air out of the bag and then seal it. Place inside the refrigerator and let it marinate overnight.</li>\r\n<li>Prepare the basting sauce (use the basting sauce ingredients above) by combining soy sauce and white sugar in a bowl. Stir well. Set aside.</li>\r\n<li>Heat the grill. Start to grill the Tuna by arranging it over the cooking grate. Brush a generous amount of basting sauce on the top part of the fish. Grill for 3 to 5 minutes.</li>\r\n<li>Turn the tuna over to cook the opposite side. Baste the top and sides. Continue to grill for another 5 minutes.</li>\r\n<li>Gently flip the fish jaw to grill the other side one more time. Cook it for 5 to 7 minutes.</li>\r\n<li>Once done, flip it back for the last time to cook the opposite side. Cook it for 5 minutes. Transfer to serving plate. Serve with a dipping sauce composed of soy sauce, lime, and chili.</li>\r\n<li>Serve. Share and enjoy!</li>\r\n</ol>",
-    "image" : "https://animelightnovels.github.io/turbo-goggles/images/Inihaw-na-Panga-ng-Tuna.jpg"
+    "image" : "images/Inihaw-na-Panga-ng-Tuna.jpg"
   },
   "fish2" : {
     "category" : "fish2",
     "ulam" : "Kinilaw na Tanigue Recipe (Fish Ceviche)",
     "ingredients" : "<ul>\r\n<li>2 lbs. Tanigue (Wahoo fish), fillet and cut into cubes</li>\r\n<li>2 thumbs fresh ginger, minced</li>\r\n<li>8 pieces hot chili (Thai chili or siling labuyo), chopped</li>\r\n<li>15 to 20 pieces calamansi</li>\r\n<li>1 medium red onion, chopped into small pieces</li>\r\n<li>¼ teaspoon ground black pepper</li>\r\n<li>½ teaspoon sugar</li>\r\n<li>Salt to taste</li>\r\n</ul>",
     "instruction" : "<ol>\r\n<li>Squeeze the juice out of the calamansi over a large bowl. Use a sieve to filter the seeds. Discard the seeds.</li>\r\n<li>In the bowl with calamansi juice, add sugar, ½ teaspoon salt, and ground black pepper. Stir until the sugar and salt are diluted.</li>\r\n<li>Add the ginger, chili, and onion. Stir for a few seconds until all ingredients are well blended.</li>\r\n<li>Arranged the raw fish cubes in a large bowl. Pour the calamansi mixture. Toss until the fish cubes are coated. Let is stay for 10 minutes.</li>\r\n<li>Toss one more time and taste. Add more salt if needed. You can also add more calamansi juice if needed. Toss to blend all the ingredients. Securely cover the bowl and place it inside the refrigerator. Let it chill for at least 3 hours.</li>\r\n<li>Serve. Share and enjoy!</li>\r\n</ol>",
-    "image" : "https://animelightnovels.github.io/turbo-goggles/images/Kinilaw-na-Tanigue.jpg"
+    "image" : "images/Kinilaw-na-Tanigue.jpg"
   },
   "fish3" : {
     "category" : "fish3",
     "ulam" : "Dinengdeng with Fried Fish Recipe",
     "ingredients" : "<ul>\r\n<li>2 to 3 pieces medium sized fish, cleaned</li>\r\n<li>10 pieces okra</li>\r\n<li>1 ½ cup squash flower</li>\r\n<li>3 pieces small bitter gourd (ampalaya), cored and sliced</li>\r\n<li>10 pieces snake beans (sitaw), cut into short pieces</li>\r\n<li>2 medium ripe plum tomato, wedged</li>\r\n<li>2 knobs ginger, sliced</li>\r\n<li>1 medium onion, wedged</li>\r\n<li>2 cups hot pepper leaves (dahon ng sili)</li>\r\n<li>3 cups water</li>\r\n<li>3 tablespoons bagoong monamon</li>\r\n<li>1 tablespoon salt</li>\r\n<li>½ cup cooking oil (to fry fish)</li>\r\n</ul>",
     "instruction" : "<ol>\r\n<li>Rub salt all over the fish. Heat oil in a pan. Once the oil gets hot, fry the fish until the side turns golden brown. Turn the fish over and continue to fry the other side until the same color is achieved. Remove the fried fish from the cooking pot. Place in a plate and set aside.</li>\r\n<li>Pour water in a clean cooking pot. Let boil.</li>\r\n<li>Add onion, ginger, and tomato. Cover and boil in medium heat for 5 minutes.</li>\r\n<li>Stir-in the bagoong. Add okra, bitter gourd, and snake beans. Cover and cook for 7 to 12 minutes.</li>\r\n<li>Add the hot pepper leaves and squash flower. Cook for 3 minutes.</li>\r\n<li>Put the fried fish top. Cover. Cook for 1 minute. Transfer to a serving bowl.</li>\r\n<li>Serve. Share and enjoy!</li>\r\n</ol>",
-    "image" : "https://animelightnovels.github.io/turbo-goggles/images/Dinengdeng-Mixed-Vegetables-with-Fried-Fish-Recipe.jpg"
+    "image" : "images/Dinengdeng-Mixed-Vegetables-with-Fried-Fish-Recipe.jpg"
   },
   "fish4" : {
     "category" : "fish4",
     "ulam" : "Ginisang Munggo with Tinapa and Fried Red Snapper",
     "ingredients" : "<ul>\r\n<li>1 cup Mung beans</li>\r\n<li>4 pieces Red snapper fillets</li>\r\n<li>1 medium onion, chopped</li>\r\n<li>4 cloves garlic, crushed</li>\r\n<li>1 medium plum tomato, cubed</li>\r\n<li>3 tablespoons fish sauce</li>\r\n<li>¼ teaspoon ground black pepper</li>\r\n<li>13 tablespoons cooking oil</li>\r\n<li>1½ to 2 cups water (for cooking)</li>\r\n<li>4 cups water (for soaking)</li>\r\n<li>2 tablespoons coarse sea salt</li>\r\n</ul>",
     "instruction" : "<ol>\r\n<li>Pour 4 cups water in a bowl. Add the Mung beans and soak overnight. Discard the water. Set aside.</li>\r\n<li>Rub salt all over the Red snapper. Heat a frying pan and pour-in 10 tablespoons of cooking oil. Once the oil gets hot, fry both sides of the fish until it turns crispy. Set aside.</li>\r\n<li>Heat the remaining oil in a pan. Saute onion, garlic, and tomato.</li>\r\n<li>Add the smoked fish flakes. Cook for a minute.</li>\r\n<li>Add the soaked Mung beans. Stir fry for 1 to 2 minutes.</li>\r\n<li>Pour-in 1½ to 2 cups water. Let boil. Cook low to medium heat until the Mung beans gets very tender to the point that you can mush it easily. You may add more water if needed.</li>\r\n<li>Add fish sauce, ground black pepper and Malunggay leaves. Continue to cook for 2 to 3 minutes.</li>\r\n<li>Transfer to a serving bowl. Place the crisp fried red snapper on the side.</li>\r\n<li>Serve with rice. Share and enjoy!</li>\r\n</ol>",
-    "image" : "https://animelightnovels.github.io/turbo-goggles/images/Monggo-Guisado-with-Tinapa-and-Fried-Snapper_.jpg"
+    "image" : "images/Monggo-Guisado-with-Tinapa-and-Fried-Snapper_.jpg"
   },
   "fish5" : {
     "category" : "fish5",
     "ulam" : "Fried Daing na Bangus with Garlic Fried Rice, Fried Egg, and Pickled Papaya (Daing Silog)",
     "ingredients" : "<ul>\r\n<li>3 medium daing na bangus, fried</li>\r\n<li>3 eggs</li>\r\n<li>5 cups garlic fried rice</li>\r\n<li>¾ cups papaya atchara (optional)</li>\r\n<li>3½ tablespoons cooking oil</li>\r\n<li>2 tablespoons chopped scallions</li>\r\n</ul>",
     "instruction" : "<ol>\r\n<li>Prepare daing na bangus according to the instructions on the recipe link above. Set aside.</li>\r\n<li>Prepare sinangag (garlic fried rice). See link above for the recipe. Set Aside</li>\r\n<li>Heat oil in a pan. Once the oil gets hot, fry the eggs. You can make it sunny side-up, over easy, or basted.</li>\r\n<li>Arrange the fried daing na bangus, sinangag, and fried egg on individual plates. Serve with papaya atchara and spicy vinegar. Sprinkle some chopped scallions on top.</li>\r\n<li>Share and enjoy</li>\r\n</ol>",
-    "image" : "https://animelightnovels.github.io/turbo-goggles/images/Daing-Silog-Recipe.jpg"
+    "image" : "images/Daing-Silog-Recipe.jpg"
   },
   "fish6" : {
     "category" : "fish6",
     "ulam" : "The Simplest Paksiw na Galunggong Recipe",
     "ingredients" : "<ul>\r\n<li>1 pound galunggong, cleaned</li>\r\n<li>2 thumbs ginger, sliced</li>\r\n<li>1 long green pepper (optional)</li>\r\n<li>½ cup white vinegar</li>\r\n<li>1 cup water</li>\r\n<li>4 cloves garlic, crushed and chopped</li>\r\n<li>Salt to taste</li>\r\n</ul>",
     "instruction" : "<ol>\r\n<li>Rub salt all over the fish including the inner cavity. Let it stay for 10 minutes.</li>\r\n<li>Arrange the fish in a cooking pot along with the ginger, garlic, and long green pepper. Pour water and vinegar. Let boil.</li>\r\n<li>Cover and simmer for 30 to 45 minutes. Add more water if needed.</li>\r\n<li>Add salt to taste. Stir.</li>\r\n<li>Serve with warm rice. Enjoy!</li>\r\n</ol>",
-    "image" : "https://animelightnovels.github.io/turbo-goggles/images/pinangat-na-galunggong-recipe-1.jpg"
+    "image" : "images/pinangat-na-galunggong-recipe-1.jpg"
   },
   "fish7" : {
     "category" : "fish7",
     "ulam" : "Sinabawang Isda at Gulay",
     "ingredients" : "<ul>\r\n<li>2 (3 oz.) mahi mahi fillets</li>\r\n<li>3 to 4 cups fresh kamote tops</li>\r\n<li>1 knob ginger, sliced into thin pieces</li>\r\n<li>2 medium tomatoes, sliced</li>\r\n<li>1 medium red onion, sliced</li>\r\n<li>2 cups water</li>\r\n<li>1 teaspoon sea salt</li>\r\n</ul>",
     "instruction" : "<ol>\r\n<li>Pour water in a cooking pan.Let boil.</li>\r\n<li>Add the tomatoes, ginger, and onion. Cover and boil for 5 to 8 minutes.</li>\r\n<li>Add the fresh mahi-mahi. Cover and cook for 8 to 10 minutes in medium heat.</li>\r\n<li>Stir-in the salt and add the kamote tops. Cover and cook for 1 to 2 minutes.</li>\r\n<li>Transfer to a serving bowl. Serve with warm white rice.</li>\r\n<li>Share and enjoy!</li>\r\n</ol>",
-    "image" : "https://animelightnovels.github.io/turbo-goggles/images/sinabawang-isda-at-gulay.jpg"
+    "image" : "images/sinabawang-isda-at-gulay.jpg"
   },
   "fish8" : {
     "category" : "fish8",
     "ulam" : "Ginataang Yellow Fin Tuna",
     "ingredients" : "<ul>\r\n<li>3 fillets yellow fin tuna, pan fried for 1 minute per side</li>\r\n<li>1 cup ampalaya leaves</li>\r\n<li>2½ cups coconut cream</li>\r\n<li>2 thumbs ginger, julienne</li>\r\n<li>1 medium red onion, diced</li>\r\n<li>5 cloves garlic, crushed and chopped</li>\r\n<li>4 tablespoons cooking oil</li>\r\n<li>2 tablespoons fish sauce</li>\r\n<li>⅛ teaspoon ground black pepper</li>\r\n<li>½ teaspoon chili flakes</li>\r\n</ul>",
     "instruction" : "<ol>\r\n<li>Heat oil in a pan.</li>\r\n<li>Saute garlic and onion.</li>\r\n<li>Add ginger and continue to cook until the onion gets soft.</li>\r\n<li>Pour-in coconut cream. Stir and let boil.</li>\r\n<li>Add the ground black pepper and fish sauce. Stir and cook for 1 minute.</li>\r\n<li>Put the fried yellow fin tuna fillet in the pan. Scoop some coconut cream on top while cooking. Cover and cook in low to medium heat for 12 minutes.</li>\r\n<li>Add the ampalaya leaves. Stir cover and cook for 3 minutes.</li>\r\n<li>Add red pepper flakes or fresh siling labuyo.</li>\r\n<li>Transfer to a serving plate. Serve.</li>\r\n<li>Share and enjoy!</li>\r\n</ol>",
-    "image" : "https://animelightnovels.github.io/turbo-goggles/images/Ginataang-Yellow-Fin-Tuna-Recipe.jpg"
+    "image" : "images/Ginataang-Yellow-Fin-Tuna-Recipe.jpg"
   },
   "beef1" : {
     "category" : "beef1",
