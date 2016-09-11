@@ -68,7 +68,7 @@ ulam([
     "ulam" : "Beef Stir Fry in Oyster Sauce with Ampalaya",
     "ingredients" : "<ul>\r\n<li>½ lb beef sirloin, sliced into thin strips</li>\r\n<li>1 medium bitter gourd (ampalaya), cored and sliced</li>\r\n<li>2 tablespoons soy sauce</li>\r\n<li>2 tablespoons sherry or shaoxing cooking wine</li>\r\n<li>1 tablespoon cornstarch</li>\r\n<li>3 tablespoons oyster sauce</li>\r\n<li>1 teaspoon Sesame oil</li>\r\n<li>¼ teaspoon ground black pepper</li>\r\n<li>4 tablespoons cooking oil</li>\r\n</ul>",
     "instruction" : "<ol>\r\n<li>Combine beef, soy sauce, cooking wine, Sesame oil, and ground black pepper. Mix well.</li>\r\n<li>Add cornstarch to the mixture. Continue to mix until all the ingredients are well blended. Set aside.</li>\r\n<li>Heat 3 tablespoons of cooking oil in a pan or wok. Once the oil gets hot, stir-fry the beef slices for 4 to 6 minutes or until the beef turns brown. Remove the stir fried beef from the pan and place in a clean plate.</li>\r\n<li>Using the same pan, add the remaining cooking oil. Add the bitter gourd (ampalaya) slices and stir-fry for 2 minutes.</li>\r\n<li>Pour-in the oyster sauce. Continue to stir-fry for 30 seconds.</li>\r\n<li>Add the stir-fried beef. Cook for 1 minute more.</li>\r\n<li>Transfer to a serving plate. Serve with warm rice.</li>\r\n<li>Share and enjoy!</li>\r\n</ol>",
-    "image" : "https://animelightnovels.github.io/turbo-goggles/images/Beef-in-Oyster-Sauce-Stir-Fry-with-Ampalaya-Rice-Bowl-Recipe.jpg"
+    "image" : "images/Beef-in-Oyster-Sauce-Stir-Fry-with-Ampalaya-Rice-Bowl-Recipe.jpg"
   },
   "beef3" : {
     "category" : "beef3",
