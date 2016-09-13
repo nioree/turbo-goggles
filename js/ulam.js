@@ -1,4 +1,4 @@
-myUlam([{
+var myUlam = [{
   "fish1" : {
     "category" : "fish1",
     "ulam" : "Inihaw na Panga ng Tuna (Grilled Tuna Jaw)",
@@ -111,4 +111,4 @@ myUlam([{
     "instruction" : "<ol>\r\n<li>Prepare the ground beef filing by heating 3 tablespoons of cooking oil in a pan.</li>\r\n<li>Add the onion. Cook until soft.</li>\r\n<li>Add the chopped bell pepper and ground beef. Brown the beef (cook around 3 to 5 minutes).</li>\r\n<li>Sprinkle some salt and pepper (adjust the amount to your preference) and pour-in the Worcestershire sauce. Stir and cook for 4 to 5 minutes. Remove from the pan and set aside.</li>\r\n<li>Start to make the omelet by cracking the eggs in a bowl. Sprinkle a bit of salt. Whisk the eggs until the texture is smooth.</li>\r\n<li>Heat the remaining oil in a pan.</li>\r\n<li>Once the oil starts to heat-up, slowly pour ⅓ of the beaten egg on the pan. Let it cook in low to medium heat until the egg starts to form.</li>\r\n<li>Turn the egg over using a spatula. Scoop ⅓ of the cooked ground beef over one side of the egg. When the other side of the egg forms and starts to solidify, fold the other half to cover the side with ground meat.</li>\r\n<li>Remove the omelet from the pan and transfer to a serving plate. Perform the same steps until all the ingredients are consumed.</li>\r\n<li>Serve with rice or bread. Share and enjoy!</li>\r\n</ol>",
     "image" : "images/ground-beef-omelet-recipe.jpg"
   }
-}]);
+}];
