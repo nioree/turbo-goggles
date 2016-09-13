@@ -1,4 +1,4 @@
-foods = '[{
+var foods = '[{
   "fish1" : {
     "category" : "fish1",
     "ulam" : "Inihaw na Panga ng Tuna (Grilled Tuna Jaw)",
