@@ -1,3 +1,4 @@
+localStorage.setItem('list_date', '2016-16-9');
 var myUlam = [{
   "fish1" : {
     "category" : "fish1",
