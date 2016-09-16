@@ -1,67 +1,99 @@
-localStorage.setItem('list_date', '2016-16-9 - 5:26');
+localStorage.setItem('list_date', '2016-17-9 - 7:53');
 var myUlam = [{
   "fish1" : {
     "category" : "fish1",
-    "ulam" : "Inihaw na Panga ng Tuna (Grilled Tuna Jaw)",
-    "ingredients" : "<ul>\r\n<li>3 lbs. Tuna jaw (Panga ng Tuna), rinsed</li>\r\n</ul>\r\n<div>Tuna Marinade</div>\r\n<ul>\r\n<li>1 cup soy sauce</li>\r\n<li>5 cloves garlic, crushed and minced</li>\r\n<li>9 pieces red chili</li>\r\n<li>¼ cup brown sugar</li>\r\n<li>2 pieces lime (or 4 pieces calamansi)</li>\r\n<li>¼ teaspoon ground black pepper</li>\r\n</ul>\r\n<div>Tuna basting sauce</div>\r\n<ul>\r\n<li>½ cup soy sauce</li>\r\n<li>2 tablespoons white sugar</li>\r\n</ul>",
-    "instruction" : "<ol>\r\n<li>Combine soy sauce, lime, ground black pepper, and chili in a medium bowl. Stir.</li>\r\n<li>Add garlic and sugar. Stir thoroughly until the sugar dissolves.</li>\r\n<li>Place the tuna in a re-sealable plastic bag. Pour the soy sauce marinade along with the tuna. Let the air out of the bag and then seal it. Place inside the refrigerator and let it marinate overnight.</li>\r\n<li>Prepare the basting sauce (use the basting sauce ingredients above) by combining soy sauce and white sugar in a bowl. Stir well. Set aside.</li>\r\n<li>Heat the grill. Start to grill the Tuna by arranging it over the cooking grate. Brush a generous amount of basting sauce on the top part of the fish. Grill for 3 to 5 minutes.</li>\r\n<li>Turn the tuna over to cook the opposite side. Baste the top and sides. Continue to grill for another 5 minutes.</li>\r\n<li>Gently flip the fish jaw to grill the other side one more time. Cook it for 5 to 7 minutes.</li>\r\n<li>Once done, flip it back for the last time to cook the opposite side. Cook it for 5 minutes. Transfer to serving plate. Serve with a dipping sauce composed of soy sauce, lime, and chili.</li>\r\n<li>Serve. Share and enjoy!</li>\r\n</ol>",
-    "image" : "images/Inihaw-na-Panga-ng-Tuna.jpg",
-    "tags" : "fish, isda"
+    "ulam" : "Ginataang Tilapia Recipe",
+    "ingredients" : "<ul><li>2 lbs tilapia, cleaned (about 1 kilo)</li><li>2 cups coconut cream</li><li>1 tablespoon garlic, minced</li><li>1 medium onion, finely sliced</li><li>1 knob ginger, cut into strips</li><li>1-2 banana pepper or finger chili</li><li>1½ tbsp. fish sauce (patis)</li><li>4 pieces red chilli pepper (optional)</li><li>¼ teaspoon ground black pepper</li><li>2 cups fresh spinach</li><li>2 tablespoons cooking oil</li></ul>",
+    "instruction" : "<ol><li>Heat the cooking oil in a cooking pot.</li><li>Sauté the onion, garlic, and ginger in the hot oil</li><li>Once the onion become soft, add the fish sauce and ground black pepper. Stir.</li><li>Pour in the coconut cream and stir. Let boil and cover. Simmer for 5 minutes.</li><li>Add the banana pepper and tilapia. Cover and simmer for 30 to 35 minutes. Add some water if needed.</li><li>Put-in the red chillies. Cook for 3 minutes.</li><li>Add the spinach and simmer for about a minute.</li><li>Transfer to a serving plate.</li><li>Serve Hot. Share and Enjoy!</li></ol>",
+    "image" : "images/Ginataang-Tilapia_.jpg",
+    "tags" : "fish, isda, gata"
   },
   "fish2" : {
     "category" : "fish2",
-    "ulam" : "Kinilaw na Tanigue Recipe (Fish Ceviche)",
-    "ingredients" : "<ul>\r\n<li>2 lbs. Tanigue (Wahoo fish), fillet and cut into cubes</li>\r\n<li>2 thumbs fresh ginger, minced</li>\r\n<li>8 pieces hot chili (Thai chili or siling labuyo), chopped</li>\r\n<li>15 to 20 pieces calamansi</li>\r\n<li>1 medium red onion, chopped into small pieces</li>\r\n<li>¼ teaspoon ground black pepper</li>\r\n<li>½ teaspoon sugar</li>\r\n<li>Salt to taste</li>\r\n</ul>",
-    "instruction" : "<ol>\r\n<li>Squeeze the juice out of the calamansi over a large bowl. Use a sieve to filter the seeds. Discard the seeds.</li>\r\n<li>In the bowl with calamansi juice, add sugar, ½ teaspoon salt, and ground black pepper. Stir until the sugar and salt are diluted.</li>\r\n<li>Add the ginger, chili, and onion. Stir for a few seconds until all ingredients are well blended.</li>\r\n<li>Arranged the raw fish cubes in a large bowl. Pour the calamansi mixture. Toss until the fish cubes are coated. Let is stay for 10 minutes.</li>\r\n<li>Toss one more time and taste. Add more salt if needed. You can also add more calamansi juice if needed. Toss to blend all the ingredients. Securely cover the bowl and place it inside the refrigerator. Let it chill for at least 3 hours.</li>\r\n<li>Serve. Share and enjoy!</li>\r\n</ol>",
-    "image" : "images/Kinilaw-na-Tanigue.jpg",
+    "ulam" : "Fish Fillet with Tausi",
+    "ingredients" : "<ul><li>1 lb Fish Fillet (tilapia, red snapper, or tuna)</li><li>4 tbsp Chinese black beans (tausi)</li><li>½ cup Parsley, chopped finely</li><li>½ cup Green onions, chopped</li><li>1 medium sized Onion, chopped</li><li>1 cup water</li><li>1 pc egg, beaten</li><li>1 cup Cornstarch</li><li>1 cup cooking oil</li></ul>",
+    "instruction" : "<ol><li>Put some breading on the fish by dipping it on the beaten egg mixture.</li><li>Place the cornstarch in a clear plastic bag and put-in the fish. Close the container(be sure that there is some air inside) and shake until the cornstarch is evenly distributed on the fish</li><li>Do 1 and 2 twice</li><li>Fry the fish and set aside</li><li>On a separate pan, sauté the onion and put-in the chinese black beans</li><li>Add the green onion and parsley and simmer for 3 minutes</li><li>Add water and let boil</li><li>Put-in the fried fish fillet and simmer for 5 to 7 minutes</li><li>Add salt and pepper to taste</li><li>Serve hot. Share and Enjoy!</li></ol>",
+    "image" : "images/Fish-Fillet-with-Tausi.png",
     "tags" : "fish, isda"
   },
   "fish3" : {
     "category" : "fish3",
-    "ulam" : "Dinengdeng with Fried Fish Recipe",
-    "ingredients" : "<ul>\r\n<li>2 to 3 pieces medium sized fish, cleaned</li>\r\n<li>10 pieces okra</li>\r\n<li>1 ½ cup squash flower</li>\r\n<li>3 pieces small bitter gourd (ampalaya), cored and sliced</li>\r\n<li>10 pieces snake beans (sitaw), cut into short pieces</li>\r\n<li>2 medium ripe plum tomato, wedged</li>\r\n<li>2 knobs ginger, sliced</li>\r\n<li>1 medium onion, wedged</li>\r\n<li>2 cups hot pepper leaves (dahon ng sili)</li>\r\n<li>3 cups water</li>\r\n<li>3 tablespoons bagoong monamon</li>\r\n<li>1 tablespoon salt</li>\r\n<li>½ cup cooking oil (to fry fish)</li>\r\n</ul>",
-    "instruction" : "<ol>\r\n<li>Rub salt all over the fish. Heat oil in a pan. Once the oil gets hot, fry the fish until the side turns golden brown. Turn the fish over and continue to fry the other side until the same color is achieved. Remove the fried fish from the cooking pot. Place in a plate and set aside.</li>\r\n<li>Pour water in a clean cooking pot. Let boil.</li>\r\n<li>Add onion, ginger, and tomato. Cover and boil in medium heat for 5 minutes.</li>\r\n<li>Stir-in the bagoong. Add okra, bitter gourd, and snake beans. Cover and cook for 7 to 12 minutes.</li>\r\n<li>Add the hot pepper leaves and squash flower. Cook for 3 minutes.</li>\r\n<li>Put the fried fish top. Cover. Cook for 1 minute. Transfer to a serving bowl.</li>\r\n<li>Serve. Share and enjoy!</li>\r\n</ol>",
-    "image" : "images/Dinengdeng-Mixed-Vegetables-with-Fried-Fish-Recipe.jpg",
+    "ulam" : "Sweet and Sour Tilapia Recipe",
+    "ingredients" : "<ul><li>1 whole Tilapia</li><li>1 tbsp garlic</li><li>½ cup vinegar</li><li>1 cup bell pepper (red and green)</li><li>1 cup cooking oil</li><li>1 medium sized onion,chopped</li><li>1 thumbs ginger, cut into strips</li><li>2 cups water</li><li>3 tbsp tomato paste</li><li>½ cup brown sugar</li><li>1 tablespoon cornstarch</li><li>1 small carrot, cut into strips</li></ul>",
+    "instruction" : "<ol><li>Place the cooking oil in the pan and apply heat.</li><li>When the oil is hot enough, put the fish in the pan.</li><li>When the immersed side of the fish is brown and crispy, flip the fish to let the other side cook.</li><li>Once the fish is fully cooked, remove from pan and set aside.</li><li>In a clean pan, saute the garlic, onion, carrots, ginger, and bell pepper (red and green)</li><li>Add 2 cups of water and simmer for 5 mins</li><li>Put-in the tomato paste, sugar, and vinegar then mix thoroughly</li><li>Add-in the cornstarch to thicken the sauce (make sure to dilute the cornstarch in ½ cup water before adding it in)</li><li>Pour the sauce on top of the Tilapia.</li><li>Serve hot. Share and Enjoy!</li></ol>",
+    "image" : "images/Sweet-and-Sour-Fish.jpg",
     "tags" : "fish, isda"
   },
   "fish4" : {
     "category" : "fish4",
-    "ulam" : "Ginisang Munggo with Tinapa and Fried Red Snapper",
-    "ingredients" : "<ul>\r\n<li>1 cup Mung beans</li>\r\n<li>4 pieces Red snapper fillets</li>\r\n<li>1 medium onion, chopped</li>\r\n<li>4 cloves garlic, crushed</li>\r\n<li>1 medium plum tomato, cubed</li>\r\n<li>3 tablespoons fish sauce</li>\r\n<li>¼ teaspoon ground black pepper</li>\r\n<li>13 tablespoons cooking oil</li>\r\n<li>1½ to 2 cups water (for cooking)</li>\r\n<li>4 cups water (for soaking)</li>\r\n<li>2 tablespoons coarse sea salt</li>\r\n</ul>",
-    "instruction" : "<ol>\r\n<li>Pour 4 cups water in a bowl. Add the Mung beans and soak overnight. Discard the water. Set aside.</li>\r\n<li>Rub salt all over the Red snapper. Heat a frying pan and pour-in 10 tablespoons of cooking oil. Once the oil gets hot, fry both sides of the fish until it turns crispy. Set aside.</li>\r\n<li>Heat the remaining oil in a pan. Saute onion, garlic, and tomato.</li>\r\n<li>Add the smoked fish flakes. Cook for a minute.</li>\r\n<li>Add the soaked Mung beans. Stir fry for 1 to 2 minutes.</li>\r\n<li>Pour-in 1½ to 2 cups water. Let boil. Cook low to medium heat until the Mung beans gets very tender to the point that you can mush it easily. You may add more water if needed.</li>\r\n<li>Add fish sauce, ground black pepper and Malunggay leaves. Continue to cook for 2 to 3 minutes.</li>\r\n<li>Transfer to a serving bowl. Place the crisp fried red snapper on the side.</li>\r\n<li>Serve with rice. Share and enjoy!</li>\r\n</ol>",
-    "image" : "images/Monggo-Guisado-with-Tinapa-and-Fried-Snapper_.jpg",
+    "ulam" : "Sinigang na Salmon Recipe",
+    "ingredients" : "<ul><li>2 pieces Salmon Heads</li><li>1 pack sinigang sa Sampaloc mix (1 liter pack, tamarind base soup mix)</li><li>1 big tomato, cubed</li><li>1 big onion, cubed</li><li>¼ lb fresh spinach or Kangkong (water spinach)</li><li>1 tbsp Fish sauce</li><li>1 liter water</li><li>Salt and pepper to taste</li></ul>",
+    "instruction" : "<ol><li>Sauté the onion and tomato for a few minutes</li><li>Put-in the Salmon heads and let each side cook for 3 minutes</li><li>Add water and bring to a boil. Let this simmer for 10 minutes</li><li>Add the sinigang sa Sampaloc mix and let this simmer for 5 minutes</li><li>Add the fish sauce followed by the spinach</li><li>Turn of the heat and cover the pan for 5 to 7 minutes</li><li>Serve hot. Enjoy!</li></ol>",
+    "image" : "images/Fish-Sinigang.jpg",
     "tags" : "fish, isda"
   },
   "fish5" : {
     "category" : "fish5",
-    "ulam" : "Fried Daing na Bangus with Garlic Fried Rice, Fried Egg, and Pickled Papaya (Daing Silog)",
-    "ingredients" : "<ul>\r\n<li>3 medium daing na bangus, fried</li>\r\n<li>3 eggs</li>\r\n<li>5 cups garlic fried rice</li>\r\n<li>¾ cups papaya atchara (optional)</li>\r\n<li>3½ tablespoons cooking oil</li>\r\n<li>2 tablespoons chopped scallions</li>\r\n</ul>",
-    "instruction" : "<ol>\r\n<li>Prepare daing na bangus according to the instructions on the recipe link above. Set aside.</li>\r\n<li>Prepare sinangag (garlic fried rice). See link above for the recipe. Set Aside</li>\r\n<li>Heat oil in a pan. Once the oil gets hot, fry the eggs. You can make it sunny side-up, over easy, or basted.</li>\r\n<li>Arrange the fried daing na bangus, sinangag, and fried egg on individual plates. Serve with papaya atchara and spicy vinegar. Sprinkle some chopped scallions on top.</li>\r\n<li>Share and enjoy</li>\r\n</ol>",
-    "image" : "images/Daing-Silog-Recipe.jpg",
+    "ulam" : "Easy Steamed Fish Recipe",
+    "ingredients" : "<ul><li>1 medium sized Lapu-Lapu (Grouper fish), cleaned, scales removed, and salted</li><li>4 slices of lemon (or dayap)</li><li>¼ cup lemon juice</li><li>¼ cup sugar</li><li>¼ cup cilantro</li><li>3 tbsp ginger, cut into strips</li><li>2 tbsp lemon zest (either grated or thinly sliced)</li><li>½ cup water</li></ul>",
+    "instruction" : "<ol><li>Place the fish over an aluminum foil (the foil must be large enough to cover the entire fish)</li><li>Stuff the fish with slices of lemon and 2 tbsp ginger strips then securely close the foil.</li><li>Place the foil with fish in a steamer and steam for 20 to 30 minutes (this will depend on the size of the fish)</li><li>While steaming, heat a saucepan and put-in the lemon juice.</li><li>Add the sugar and stir until it fully dissolves in the lemon juice.</li><li>Add water and bring to a boil.</li><li>Put-in the lemon zest and 1 tbsp ginger strips then simmer until sauce becomes somewhat thick</li><li>Remove the fish from the steamer and aluminum foil cover and place in a serving plate.</li><li>Pour over the sauce and garnish with cilantro</li><li>Serve hot. Share and enjoy.</li></ol>",
+    "image" : "images/steamedlapulapu1.jpg",
     "tags" : "fish, isda"
   },
   "fish6" : {
     "category" : "fish6",
-    "ulam" : "The Simplest Paksiw na Galunggong Recipe",
-    "ingredients" : "<ul>\r\n<li>1 pound galunggong, cleaned</li>\r\n<li>2 thumbs ginger, sliced</li>\r\n<li>1 long green pepper (optional)</li>\r\n<li>½ cup white vinegar</li>\r\n<li>1 cup water</li>\r\n<li>4 cloves garlic, crushed and chopped</li>\r\n<li>Salt to taste</li>\r\n</ul>",
-    "instruction" : "<ol>\r\n<li>Rub salt all over the fish including the inner cavity. Let it stay for 10 minutes.</li>\r\n<li>Arrange the fish in a cooking pot along with the ginger, garlic, and long green pepper. Pour water and vinegar. Let boil.</li>\r\n<li>Cover and simmer for 30 to 45 minutes. Add more water if needed.</li>\r\n<li>Add salt to taste. Stir.</li>\r\n<li>Serve with warm rice. Enjoy!</li>\r\n</ol>",
-    "image" : "images/pinangat-na-galunggong-recipe-1.jpg",
+    "ulam" : "Sarciadong Isda Recipe",
+    "ingredients" : "<ul><li>2 lbs Tilapia, cleaned</li><li>3 pieces medium-sized tomatoes, diced</li><li>3 pieces medium-sized onions, diced</li><li>1¾ cups water</li><li>½ teaspoon ground black pepper</li><li>½ cup green onions, chopped (optional)</li><li>2 teaspoons garlic, minced</li><li>3 pieces raw eggs, beaten</li><li>2 tablespoons fish sauce</li></ul>",
+    "instruction" : "<ol><li>Heat oil in a frying pan then fry the fish. Ensure that salt has been rubbed over the fish before frying.</li><li>Remove the fish from the frying pan and place in a a plate with paper towels. Set aside.</li><li>Using a clean pan, heat about 2 teaspoons of cooking oil then sauté the garlic, onions, and tomatoes</li><li>Add the fish sauce and ground black pepper then stir.</li><li>Put-in the chopped green onions and water then bring to a boil.</li><li>Add the fried fish and simmer for 3 to 5 minutes.</li><li>Pour the beaten eggs on the pan. Ensure that it is distributed evenly.</li><li>Once the eggs curdles or coagulates, you may start stirring the mixture.</li><li>Simmer for another 2 minutes than transfer to a serving plate.</li><li>Serve hot. Share and enjoy!</li></ol>",
+    "image" : "images/SarciadongIsdaFront1.jpg",
     "tags" : "fish, isda"
   },
   "fish7" : {
     "category" : "fish7",
-    "ulam" : "Sinabawang Isda at Gulay",
-    "ingredients" : "<ul>\r\n<li>2 (3 oz.) mahi mahi fillets</li>\r\n<li>3 to 4 cups fresh kamote tops</li>\r\n<li>1 knob ginger, sliced into thin pieces</li>\r\n<li>2 medium tomatoes, sliced</li>\r\n<li>1 medium red onion, sliced</li>\r\n<li>2 cups water</li>\r\n<li>1 teaspoon sea salt</li>\r\n</ul>",
-    "instruction" : "<ol>\r\n<li>Pour water in a cooking pan.Let boil.</li>\r\n<li>Add the tomatoes, ginger, and onion. Cover and boil for 5 to 8 minutes.</li>\r\n<li>Add the fresh mahi-mahi. Cover and cook for 8 to 10 minutes in medium heat.</li>\r\n<li>Stir-in the salt and add the kamote tops. Cover and cook for 1 to 2 minutes.</li>\r\n<li>Transfer to a serving bowl. Serve with warm white rice.</li>\r\n<li>Share and enjoy!</li>\r\n</ol>",
-    "image" : "images/sinabawang-isda-at-gulay.jpg",
+    "ulam" : "Tofu Steak Fried in Honey and Rosemary with Tuna & Tomato Sauce",
+    "ingredients" : "<ul><li>a block of tofu</li><li>ground pepper</li><li>salt</li><li>rosemary</li><li>basil</li><li>sage</li><li>thyme</li><li>tomatoes</li><li>bell pepper</li><li>onions</li><li>garlic</li><li>spaghetti sauce</li><li>mushrooms</li><li>ketchup</li><li>a can of tuna</li></ul>",
+    "instruction" : "<ol><li>Make sure that your block of tofu is dried by wiping it with a tissue paper. This will make it easier to fry later on.</li><li>Put a dash of salt, pepper and rosemary on all sides of your tofu. Set it aside.</li><li>Slice all your vegetables.</li><li>Open your cans of tuna and mushrooms.</li><li>Prepare one pan and one casserole.</li><li>Heat your pan and pour about 2 tbsps. of oil and 4 tbsps. of honey.</li><li>Once the oil and honey are hot, put your block of tofu. Make sure that each side is fried equally.</li><li>While waiting for each side to be fried, you can now heat your casserole and pour about 4 tbsps. of oil.</li><li>Put all the rest of the ingredients (tomatoes, bell pepper, garlic, onion, tuna, mushrooms including the herbs and mix them all together.)</li><li>After about 2 mins., pour the packet of ketchup and spaghetti sauce. Mix.</li><li>Let everything boil.</li><li>If you can multitask like I usually do (coz I'm always in such a hurry), after about 10 minutes, both your dishes should be pretty much done. Put the fried tofu on a shallow bowl then pour the Tuna and Tomato Sauce around it.</li></ol>",
+    "image" : "images/Tofu-Tuna-Front.JPG",
     "tags" : "fish, isda"
   },
   "fish8" : {
     "category" : "fish8",
-    "ulam" : "Ginataang Yellow Fin Tuna",
-    "ingredients" : "<ul>\r\n<li>3 fillets yellow fin tuna, pan fried for 1 minute per side</li>\r\n<li>1 cup ampalaya leaves</li>\r\n<li>2½ cups coconut cream</li>\r\n<li>2 thumbs ginger, julienne</li>\r\n<li>1 medium red onion, diced</li>\r\n<li>5 cloves garlic, crushed and chopped</li>\r\n<li>4 tablespoons cooking oil</li>\r\n<li>2 tablespoons fish sauce</li>\r\n<li>⅛ teaspoon ground black pepper</li>\r\n<li>½ teaspoon chili flakes</li>\r\n</ul>",
-    "instruction" : "<ol>\r\n<li>Heat oil in a pan.</li>\r\n<li>Saute garlic and onion.</li>\r\n<li>Add ginger and continue to cook until the onion gets soft.</li>\r\n<li>Pour-in coconut cream. Stir and let boil.</li>\r\n<li>Add the ground black pepper and fish sauce. Stir and cook for 1 minute.</li>\r\n<li>Put the fried yellow fin tuna fillet in the pan. Scoop some coconut cream on top while cooking. Cover and cook in low to medium heat for 12 minutes.</li>\r\n<li>Add the ampalaya leaves. Stir cover and cook for 3 minutes.</li>\r\n<li>Add red pepper flakes or fresh siling labuyo.</li>\r\n<li>Transfer to a serving plate. Serve.</li>\r\n<li>Share and enjoy!</li>\r\n</ol>",
-    "image" : "images/Ginataang-Yellow-Fin-Tuna-Recipe.jpg",
+    "ulam" : "Fried Tilapia Recipe",
+    "ingredients" : "<ul><li>2 pieces medium tilapia, cleaned and scales removed</li><li>2 teaspoons salt</li><li>1 cup cooking oil</li></ul>",
+    "instruction" : "<ol><li>Rub salt all over the fish including the insides.</li><li>Heat oil in a wide frying pan</li><li>When the oil is hot, put-in the tilapia. Cover the frying pan, but make sure to open it a little so that steam can come out. Fry each side in medium heat for about 6 to 10 minutes. Note: I usually wait until I don’t hear any sound. This means that the liquid is gone and the fish is crisp.</li><li>Remove from the pan and arrange in a serving plate.</li><li>Serve with your favorite condiments and side dish.</li><li>Share and enjoy!</li></ol>",
+    "image" : "images/Fried-Tilapia-Front1.jpg",
+    "tags" : "fish, isda"
+  },
+  "fish9" : {
+    "category" : "fish9",
+    "ulam" : "Kinilaw na Tuna",
+    "ingredients" : "<ul><li>2 lbs tuna; skinned, deboned, and cubed</li><li>1½ cup vinegar</li><li>3 tablespoons ginger, minced</li><li>1 large red onion, minced</li><li>2 teaspoon salt</li><li>1 teaspoon ground black pepper</li><li>½ cup lemon or calamansi juice</li><li>1 to 2 tablespoons red chilies, chopped</li></ul>",
+    "instruction" : "<ol><li>Place the cubed tuna meat in a large bowl then pour-in ¾ cups of vinegar.</li><li>Let stand for 2 minutes then gently squeeze the tuna by placing a spoon on top applying a little pressure.</li><li>Gently wash the tuna meat with vinegar. Drain all the vinegar once done. This will help reduce the fishy smell.</li><li>Add the remaining ¾ cup vinegar, calamansi or lemon juice, ginger, salt, ground black pepper, and red chilies then mix well.</li><li>Cover the bowl and refrigerate for at least 2 hours.</li><li>Top with minced red onions and serve (you may also add the red onions with the rest of the ingredients in step 4).</li><li>Share and enjoy!</li></ol>",
+    "image" : "images/Kinilaw-na-Tuna-Front.JPG",
+    "tags" : "fish, isda"
+  },
+  "fish10" : {
+    "category" : "fish10",
+    "ulam" : "Sinigang na Panga ng Tuna Recipe (Tuna jaw cooked in sour broth)",
+    "ingredients" : "<ul><li>2 lbs tuna jaw (panga ng tuna)</li><li>8 cups water</li><li>2 cups string beans (sitaw), cut in 2 inches length</li><li>3 pieces medium-sized egg plant, sliced</li><li>8 pieces okra, cleaned</li><li>1 bunch water spinach (kangkong), chopped</li><li>4 to 6 pieces medium-sized tomatoes, halved</li><li>2 tablespoons fish sauce (patis)</li><li>Sinigang mix good for 2 liters of water</li><li>4 pieces Thai chilies or 3 pieces finger chilies (siling pansigang)</li></ul>",
+    "instruction" : "<ol><li>Heat a cooking pot and pour-in the water. Bring to a boil.</li><li>Put-in the onions and tomatoes and cook until tender.</li><li>Put-in the tuna jaw and simmer for 15 minutes</li><li>Add the sinigang mix, chilies, and fish sauce then simmer for another 3 minutes.</li><li>Put-in the okra and string beans and cook for 3 minutes.</li><li>Add the eggplant and give additional 5 minutes to cook.</li><li>Mix-in the water spinach and simmer for a minute. Turn the heat off, cover the pot, and allow residual heat to completely cook the water spinach.</li><li>Transfer to a serving bowl and serve hot.</li><li>Share and enjoy!</li></ol>",
+    "image" : "images/Sinigang-na-Panga-ng-Tuna-Front.JPG",
+    "tags" : "fish, isda"
+  },
+  "fish11" : {
+    "category" : "fish11",
+    "ulam" : "Kinilaw na Dulong",
+    "ingredients" : "<ul><li>½ lb silverfish (dulong), cleaned</li><li>1 to 2 pieces lemon (or 6 to 8 pieces calamansi)</li><li>1½ tablespoons ginger, minced</li><li>2 teaspoons salt</li><li>½ teaspoon ground black pepper</li><li>1 to 2 teaspoons birds eye chili (siling labuyo), minced</li></ul>",
+    "instruction" : "<ol><li>Combine silverfish, salt, and ground black pepper then gently mix until everything is well incorporated.</li><li>Add minced ginger and minced bird’s eye chili then continue mixing until everything is distributed.</li><li>Squeeze-in lemon (or calamansi) and gently stir the mixture to distribute the juice.</li><li>Refrigerate for at least 30 minutes. At this stage, the citric acid in lemon or calamansi will gently cook the fish.</li><li>Transfer to a serving bowl and serve.</li><li>Share and enjoy!</li></ol>",
+    "image" : "images/kinilawnadulong1.jpg",
+    "tags" : "fish, isda"
+  },
+  "fish12" : {
+    "category" : "fish12",
+    "ulam" : "Sardines with Misua Recipe",
+    "ingredients" : "<ul><li>1 small can sardines (in tomato sauce)</li><li>2 ounces misua (thin flour noodles)</li><li>2 tablespoons fish sauce</li><li>¼ teaspoon ground black pepper</li><li>2 cloves garlic, minced</li><li>1 small onion, minced</li><li>1½ cups water</li><li>1 tablespoon toasted garlic</li><li>1 teaspoon scallion, chopped</li><li>2 tablespoons cooking oil</li></ul>",
+    "instruction" : "<ol><li>Heat a cooking pot and pour-in oil.</li><li>When the oil is hot enough, sauté garlic and onions.</li><li>Add the sardines including the sauce and cook for 2 minutes.</li><li>Put-in fish sauce and ground black pepper then stir.</li><li>Add water and let boil.</li><li>Put-in the misua and cook for 3 to 5 minutes under medium heat.</li><li>Turn-off the heat and transfer to a serving bowl.</li><li>Garnish with toasted garlic and chopped scallions on top.</li><li>Serve hot. Share and enjoy!</li></ol>",
+    "image" : "images/Misua-with-Sardines-and-Patola.jpg",
     "tags" : "fish, isda"
   },
   "beef1" : {
