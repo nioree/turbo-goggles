@@ -76,7 +76,7 @@ var myUlam = [{
     "category" : "fish2",
     "tags" : "fish, isda",
     "ulam" : "Fish Fillet with Tausi",
-    "image" : "images/Fish-Fillet-with-Tausi.png",
+    "image" : "images/Fish-Fillet-with-Tausi.jpg",
     "ingredients" : "<ul><li>1 lb Fish Fillet (tilapia, red snapper, or tuna)</li><li>4 tbsp Chinese black beans (tausi)</li><li>½ cup Parsley, chopped finely</li><li>½ cup Green onions, chopped</li><li>1 medium sized Onion, chopped</li><li>1 cup water</li><li>1 pc egg, beaten</li><li>1 cup Cornstarch</li><li>1 cup cooking oil</li></ul>",
     "instruction" : "<ol><li>Put some breading on the fish by dipping it on the beaten egg mixture.</li><li>Place the cornstarch in a clear plastic bag and put-in the fish. Close the container(be sure that there is some air inside) and shake until the cornstarch is evenly distributed on the fish</li><li>Do 1 and 2 twice</li><li>Fry the fish and set aside</li><li>On a separate pan, sauté the onion and put-in the chinese black beans</li><li>Add the green onion and parsley and simmer for 3 minutes</li><li>Add water and let boil</li><li>Put-in the fried fish fillet and simmer for 5 to 7 minutes</li><li>Add salt and pepper to taste</li><li>Serve hot. Share and Enjoy!</li></ol>"
   },
