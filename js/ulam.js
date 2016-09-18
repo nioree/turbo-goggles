@@ -1,4 +1,4 @@
-localStorage.setItem('list_date', '2016-17-9 - 21:00');
+localStorage.setItem('list_date', '2016-18-9 - 14:30');
 var myUlam = [{
   "beef1" : {
     "category" : "beef1",
