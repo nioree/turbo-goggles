@@ -1,4 +1,4 @@
-localStorage.setItem('list_date', '2016-27-9 - 18:14');
+localStorage.setItem('list_date', '2016-29-9 - 20:33');
 var myUlam = [{
   "fish1" : {
     "category" : "fish1",
@@ -922,7 +922,7 @@ var myUlam = [{
     "category" : "fish103",
     "tags" : "fish, isda",
     "ulam" : "Tuna Alfredo Casserole",
-    "image" : "http://panlasangpinoy.com/2015/06/25/tuna-alfredo-casserole/",
+    "image" : "http://panlasangpinoy.com/wp-content/uploads/2015/06/Tuna-Macaroni-Casserole.jpg",
     "youtube" : "",
     "ingredients" : "<ul><li>1 lb.macaroni noodles, cooked according to package instructions</li><li>6 oz. canned tuna, water or oil drained</li><li><a>2 servings Alfredo sauce</a></li><li>½ cup grated sharp cheddar cheese</li><li>Salt and ground black pepper to taste</li></ul>",
     "instruction" : "<ol><li>Preheat oven to 350F.</li><li>Combine the tuna and Alfredo sauce in a large mixing bowl. Stir gently until all the ingredients are blended.</li><li>Add-in the cooked macaroni noodles. Toss until the macaroni is coated with the sauce. Add salt and pepper to taste.</li><li>Transfer the tuna Alfredo in a baking pan.Top with shredded cheese.</li><li>Bake for 18 minutes.</li><li>Remove from the oven. Serve.</li><li>Share and enjoy!</li></ol>"
