@@ -8,7 +8,7 @@
 	<script>
 	      var string = '<ul>';
 	      var request = new XMLHttpRequest();
-	      request.open("GET", "sitemap1.xml", false);
+	      request.open("GET", "sitemap1.xml", true);
 	      request.send();
 	      var xml = request.responseXML;
 	      var users = xml.getElementsByTagName("url");
