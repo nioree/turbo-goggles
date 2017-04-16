@@ -6,16 +6,16 @@
 	<div id="wrapper"></div>
     
 	<script>
-	      var string = '<table align="center">';
+	      var string = '<ul>';
 	      var request = new XMLHttpRequest();
 	      request.open("GET", "sitemap1.xml", false);
 	      request.send();
 	      var xml = request.responseXML;
 	      var users = xml.getElementsByTagName("url");
 	      for(var i = 0; i < users.length; i++) {
-		string += '<tr><a href="' + users[i].childNodes[0].nodeValue + '">' + users[i].childNodes[0].nodeValue + '</a></tr>';
+		string += '<li><a href="' + users[i].childNodes[0].nodeValue + '">' + users[i].childNodes[0].nodeValue + '</a></li>';
 	      }
-	      string += "</table>";
+	      string += "</ul>";
 	      $(string).appendTo('#wrapper');
 	</script>
 </body>
