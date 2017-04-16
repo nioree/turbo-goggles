@@ -11,7 +11,7 @@
 	function parse(document){
 	  $(document).find("url").each(function(){
 	    $("#content").append(
-		'<p>'+$(this).childNodes[0].nodeValue+
+		'<p>'+$(this).nodeValue+
 		'</p>'
 		);
 	  });
