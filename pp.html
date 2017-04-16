@@ -6,21 +6,17 @@
 	<div id="wrapper"></div>
     
 	<script>
-	var string = '<table align="center">';
-      var request = new XMLHttpRequest();
-      request.open("GET", "sitemap1.xml", false);
-      request.send();
-      var xml = request.responseXML;
-      var users = xml.getElementsByTagName("urlset");
-      for(var i = 0; i < users.length; i++) {
-        var user = users[i];
-        var title = user.getElementsByTagName("url");        
-        for(var j = 0; j < title.length; j++) {
-          string += '<tr><td><a href="' + title[j].childNodes[0].nodeValue + '">' + title[j].childNodes[0].nodeValue + '</a></td></tr>';
-        }
-      }
-      string += "</table>";
-      $(string).appendTo('#wrapper');
+	      var string = '<table align="center">';
+	      var request = new XMLHttpRequest();
+	      request.open("GET", "sitemap1.xml", false);
+	      request.send();
+	      var xml = request.responseXML;
+	      var users = xml.getElementsByTagName("url");
+	      for(var i = 0; i < users.length; i++) {
+		string += '<tr><td><a href="' + users[i].childNodes[0].nodeValue + '">' + users[i].childNodes[0].nodeValue + '</a></td></tr>';
+	      }
+	      string += "</table>";
+	      $(string).appendTo('#wrapper');
 	</script>
 </body>
 </html>
