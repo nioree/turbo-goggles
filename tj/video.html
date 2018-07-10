@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>player</title>
+		<style>
+		html, body {
+			margin: 0px;
+			padding: 0px;
+			border: 0px;
+			width: 100%;
+			height: 100%;
+		}
+		iframe {
+			width: 100%;
+			height: 100%;
+			margin: 0px;
+			padding: 0px;
+			border: 0px;
+			display: block;
+		}
+
+		</style>
+	</head>
+	<body> 
+		<script type='text/javascript'>
+		  var myParam = location.search.split('link=')[1];
+			document.write('<iframe src="https://openload.co/embed/' + myParam + '" scrolling="no" frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>');
+		</script>
+		
+			<script src="assets/js/GALocalStorage.js"></script>
+			<script type="text/javascript">
+			ga_storage._setAccount('UA-83358703-1'); //Replace with your own
+    	ga_storage._trackPageview('/video.html', 'Video');
+			</script>
+	</body>
+</html>
