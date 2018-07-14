@@ -1002,11 +1002,12 @@
 				display: -webkit-flex;
 				display: -ms-flex;
 				display: flex;
+				flex-direction: column;
 			}
 
 				.panel > .inner.split > div {
 					margin-left: 4em;
-					width: 50%;
+					width: 100%;
 				}
 
 				.panel > .inner.split > :first-child {
@@ -1041,9 +1042,15 @@
 			.panel {
 				padding: 3em 3em 1em 3em ;
 			}
-
+			.panel > .inner.split {
+				-moz-flex-direction: column;
+				-webkit-flex-direction: column;
+				-ms-flex-direction: column;
+				flex-direction: column;
+			}
 				.panel > .inner.split > div {
 					margin-left: 3em;
+					width: 100%;
 				}
 
 				.panel > .closer {
